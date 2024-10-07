@@ -25,8 +25,9 @@ This solution is **serverless**, highly scalable, and **cost-effective**, provid
 1. **Amazon EMR Serverless**: To run Spark jobs in a fully managed, serverless way.
 2. **AWS Glue**: For data cataloging and managing Iceberg tables.
 3. **Amazon S3**: For storing raw data, Pyspark scripts, and processed Iceberg tables.
-4. **AWS Step Functions**: To orchestrate the pipeline.
-5. **Amazon EventBridge**: To trigger the pipeline automatically on file uploads.
+4. **Apache Iceberg**: Provides advanced table format and capabilities for managing large datasets efficiently.
+5. **AWS Step Functions**: To orchestrate the pipeline.
+6. **Amazon EventBridge**: To trigger the pipeline automatically on file uploads.
 
 ### Step-by-Step Implementation
 
