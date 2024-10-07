@@ -1,0 +1,67 @@
+{
+  "Comment": "A description of my state machine",
+  "StartAt": "EMR Serverless StartApplication",
+  "States": {
+    "EMR Serverless StartApplication": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::emr-serverless:startApplication.sync",
+      "Parameters": {
+        "ApplicationId": "XXXXXXX"
+      },
+      "Next": "EMR Serverless bronze zone"
+    },
+    "EMR Serverless bronze zone": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::emr-serverless:startJobRun.sync",
+      "Parameters": {
+        "Name": "Demo-bronze",
+        "ApplicationId": "XXXXXXXXX",
+        "ExecutionRoleArn": "arn:aws:iam::XXXXXX:role/demo-emr-serverless-role",
+        "JobDriver": {
+          "SparkSubmit": {
+            "EntryPoint": "s3://XXXXXXXX/code/rides_data_emr_bronze.py"
+          }
+        }
+      },
+      "Next": "EMR Serverless silver zone"
+    },
+    "EMR Serverless silver zone": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::emr-serverless:startJobRun.sync",
+      "Parameters": {
+        "Name": "demo-silver",
+        "ApplicationId": "XXXXXXXX",
+        "ExecutionRoleArn": "arn:aws:iam::XXXXXXXX:role/demo-emr-serverless-role",
+        "JobDriver": {
+          "SparkSubmit": {
+            "EntryPoint": "s3://XXXXXX/code/rides_data_silver_emr.py"
+          }
+        }
+      },
+      "Next": "EMR Serverless gold zone"
+    },
+    "EMR Serverless gold zone": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::emr-serverless:startJobRun.sync",
+      "Parameters": {
+        "Name": "demo-gold",
+        "ApplicationId": "XXXXXXXXX",
+        "ExecutionRoleArn": "arn:aws:iam::XXXXXX:role/demo-emr-serverless-role",
+        "JobDriver": {
+          "SparkSubmit": {
+            "EntryPoint": "s3://XXXXXXX/code/rides_data_gold_emr.py"
+          }
+        }
+      },
+      "Next": "EMR Serverless StopApplication"
+    },
+    "EMR Serverless StopApplication": {
+      "Type": "Task",
+      "Resource": "arn:aws:states:::emr-serverless:stopApplication.sync",
+      "Parameters": {
+        "ApplicationId": "XXXXXXX"
+      },
+      "End": true
+    }
+  }
+}

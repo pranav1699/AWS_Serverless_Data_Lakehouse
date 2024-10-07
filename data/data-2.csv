@@ -1,0 +1,1001 @@
+Date,driver_number,start_point,end_point,distance_travelled,speed,start_time,end_time,driver_rating,fare_amount,weather_conditions,traffic_conditions,payment_method,passenger_count,duration,route_taken
+06/12/2025,8,5815 Continental Terrace,3 Hanover Junction,9.91,86.97,2/18/2022,6/7/2022,5.0,33.61,sunny,heavy,mobile payment,3,541,back roads
+06/12/2025,2,5596 Graedel Parkway,9972 Fremont Way,44.2,2.91,2/2/2022,6/14/2022,1.5,34.23,sunny,light,credit card,3,590,back roads
+06/12/2025,2,03 Corry Plaza,5 Victoria Road,20.37,40.05,4/11/2022,8/11/2022,3.5,69.42,cloudy,moderate,mobile payment,2,548,highway
+06/12/2025,5,54 Fair Oaks Pass,2 Artisan Lane,49.64,80.7,9/9/2022,6/13/2022,3.2,83.44,sunny,moderate,mobile payment,5,31,back roads
+06/12/2025,2,09 Mcbride Terrace,0355 Summer Ridge Hill,40.87,5.47,6/22/2022,3/4/2022,2.9,74.98,snowy,moderate,mobile payment,4,268,city streets
+06/12/2025,7,19044 Miller Way,5835 Steensland Street,13.39,96.96,7/18/2022,4/24/2022,2.0,40.83,snowy,light,mobile payment,4,220,back roads
+06/12/2025,9,32766 Duke Alley,69749 Becker Plaza,46.31,70.98,6/6/2022,5/11/2022,1.4,22.93,snowy,heavy,credit card,2,43,city streets
+06/12/2025,7,06 Ludington Terrace,772 Waubesa Parkway,39.6,101.41,1/25/2022,2/3/2022,2.3,62.83,sunny,heavy,cash,3,546,back roads
+06/12/2025,5,3 Everett Drive,23518 Del Sol Street,23.75,137.05,9/6/2022,2/10/2022,4.9,18.95,sunny,light,cash,1,203,highway
+06/12/2025,5,642 Butternut Place,835 Magdeline Hill,45.65,30.9,4/20/2022,10/31/2022,1.7,0.85,snowy,moderate,credit card,5,474,city streets
+06/12/2025,2,61 Hoffman Street,09 Roxbury Terrace,36.55,84.82,3/12/2022,2/26/2022,1.4,3.29,snowy,moderate,credit card,4,273,back roads
+06/12/2025,6,06 Cambridge Circle,5235 Glacier Hill Junction,18.76,72.27,9/8/2022,1/14/2022,1.4,45.11,sunny,moderate,cash,5,141,back roads
+06/12/2025,3,41213 Cordelia Center,73718 4th Court,37.74,38.67,4/11/2022,10/2/2022,3.2,46.38,snowy,light,cash,3,432,highway
+06/12/2025,5,628 Hudson Alley,23549 Kedzie Way,5.6,89.72,4/19/2022,9/5/2022,3.4,83.75,cloudy,light,mobile payment,5,493,highway
+06/12/2025,6,8400 Spenser Center,3751 Grayhawk Point,21.05,17.5,5/2/2022,8/7/2022,2.3,0.78,sunny,light,cash,2,209,city streets
+06/12/2025,9,2663 Merrick Place,055 Knutson Center,6.34,100.71,3/4/2022,7/21/2022,3.8,10.67,sunny,heavy,credit card,1,114,highway
+06/12/2025,8,0 Emmet Lane,94015 Marcy Road,24.67,18.51,8/9/2022,5/5/2022,3.1,14.45,cloudy,light,mobile payment,1,5,highway
+06/12/2025,2,6 Moose Place,59464 Moulton Junction,45.1,14.16,2/17/2022,5/11/2022,3.1,90.21,cloudy,moderate,cash,2,368,highway
+06/12/2025,4,909 Bellgrove Junction,085 Pine View Center,18.81,84.45,1/19/2022,10/26/2022,2.9,8.35,snowy,light,credit card,4,508,back roads
+06/12/2025,9,5 Vermont Park,58 Ruskin Plaza,4.5,60.69,2/2/2022,7/26/2022,1.1,29.98,sunny,light,mobile payment,2,85,city streets
+06/12/2025,9,29793 Larry Parkway,155 Northridge Junction,14.81,36.5,5/3/2022,9/15/2022,2.3,55.26,snowy,moderate,mobile payment,3,257,city streets
+06/12/2025,1,06260 Lunder Way,6496 Monument Junction,5.87,131.96,5/30/2022,6/10/2022,4.5,26.19,cloudy,light,credit card,5,580,back roads
+06/12/2025,2,26 Del Mar Plaza,965 Dennis Alley,4.63,130.57,6/30/2022,1/28/2022,2.7,71.05,cloudy,moderate,cash,2,413,city streets
+06/12/2025,8,95413 Larry Circle,069 Buell Alley,36.57,127.21,3/17/2022,8/29/2022,4.1,13.98,snowy,light,cash,4,17,back roads
+06/12/2025,2,807 1st Lane,795 Butterfield Terrace,9.17,89.46,1/27/2022,2/1/2022,4.3,71.23,snowy,light,mobile payment,5,278,back roads
+06/12/2025,2,00109 Mcbride Point,8 Norway Maple Drive,18.78,136.49,5/30/2022,8/6/2022,2.1,44.37,sunny,moderate,cash,3,92,city streets
+06/12/2025,5,446 Mosinee Center,3651 Lukken Point,45.63,35.06,8/3/2022,10/27/2022,3.7,36.36,sunny,light,cash,1,75,back roads
+06/12/2025,6,77 Barnett Trail,91 Coolidge Circle,21.83,41.01,2/10/2022,2/13/2022,1.9,66.25,sunny,light,cash,4,82,highway
+06/12/2025,2,8 Stuart Crossing,5584 Clyde Gallagher Parkway,48.03,122.91,8/8/2022,9/7/2022,1.1,24.4,sunny,heavy,credit card,5,462,city streets
+06/12/2025,4,3 Fairview Drive,8805 Calypso Hill,44.32,91.12,8/24/2022,6/1/2022,4.9,83.63,sunny,moderate,credit card,5,297,city streets
+06/12/2025,7,43952 Pepper Wood Point,63939 Everett Lane,6.46,121.01,1/25/2022,8/23/2022,3.3,17.83,sunny,heavy,cash,3,517,city streets
+06/12/2025,8,82430 Ridgeview Terrace,225 New Castle Road,18.63,103.42,4/26/2022,6/11/2022,3.1,75.81,cloudy,light,credit card,1,16,city streets
+06/12/2025,2,76223 Ruskin Street,21419 Pankratz Point,19.15,45.01,4/16/2022,9/30/2022,3.4,68.79,snowy,moderate,credit card,2,482,back roads
+06/12/2025,3,76798 Harbort Junction,888 Blaine Parkway,6.56,106.74,6/22/2022,6/11/2022,3.9,71.33,cloudy,light,mobile payment,2,0,city streets
+06/12/2025,9,42855 Kipling Junction,317 Ilene Court,38.01,122.81,3/30/2022,9/25/2022,2.2,80.68,snowy,heavy,cash,1,177,highway
+06/12/2025,5,33231 Mendota Road,47663 Nelson Center,5.12,129.31,3/7/2022,8/10/2022,4.4,93.1,sunny,light,cash,3,167,city streets
+06/12/2025,5,82 Dapin Circle,9 Arrowood Circle,0.98,112.0,8/20/2022,6/18/2022,3.2,34.85,cloudy,heavy,cash,5,374,back roads
+06/12/2025,9,67 Redwing Terrace,19712 Waywood Plaza,14.5,84.29,9/2/2022,10/1/2022,3.6,72.29,cloudy,moderate,credit card,4,439,highway
+06/12/2025,3,7762 Ridge Oak Park,54 Anderson Alley,17.53,96.83,8/6/2022,5/1/2022,1.7,37.13,snowy,light,credit card,2,221,city streets
+06/12/2025,8,286 Portage Plaza,705 Judy Plaza,13.07,49.06,5/16/2022,2/20/2022,3.3,31.94,sunny,light,mobile payment,5,350,city streets
+06/12/2025,4,1 Westerfield Plaza,752 Welch Junction,22.79,34.36,2/15/2022,6/17/2022,3.6,85.07,snowy,moderate,credit card,1,410,city streets
+06/12/2025,6,24 Pleasure Way,95 Hooker Alley,29.44,129.99,1/21/2022,1/9/2022,4.8,5.75,snowy,moderate,mobile payment,1,317,highway
+06/12/2025,3,168 Little Fleur Circle,7115 Superior Hill,28.41,53.96,4/16/2022,6/13/2022,3.4,83.3,snowy,light,cash,5,51,back roads
+06/12/2025,3,1901 Swallow Hill,34895 Susan Drive,35.23,29.52,2/23/2022,4/9/2022,4.2,23.87,sunny,light,mobile payment,2,452,highway
+06/12/2025,7,081 Bartillon Junction,6 Miller Point,20.65,96.87,3/25/2022,11/2/2022,4.3,33.53,snowy,light,cash,5,108,city streets
+06/12/2025,5,2 Cody Circle,21 Bonner Court,25.64,6.56,5/10/2022,7/3/2022,3.2,22.13,snowy,heavy,mobile payment,4,354,highway
+06/12/2025,4,2 Lyons Point,6799 Anniversary Lane,20.19,110.88,4/19/2022,2/26/2022,1.7,75.18,cloudy,heavy,credit card,2,406,city streets
+06/12/2025,4,7 Browning Plaza,9 Pleasure Place,27.69,49.08,3/3/2022,3/23/2022,2.7,82.02,cloudy,moderate,mobile payment,1,391,back roads
+06/12/2025,8,9110 Sunbrook Drive,899 Burrows Road,39.02,33.21,3/30/2022,8/14/2022,3.8,98.37,sunny,moderate,mobile payment,5,597,highway
+06/12/2025,5,2568 Porter Alley,06602 Grayhawk Point,9.53,30.23,5/2/2022,5/24/2022,1.0,63.75,snowy,heavy,mobile payment,3,45,city streets
+06/12/2025,3,16265 Bobwhite Crossing,6 Elgar Lane,22.98,89.73,7/11/2022,7/24/2022,1.4,11.8,snowy,light,credit card,5,497,highway
+06/12/2025,6,50618 Dovetail Circle,6580 Merry Lane,34.49,46.36,5/28/2022,10/31/2022,4.4,23.86,snowy,heavy,credit card,1,18,city streets
+06/12/2025,4,3 Knutson Junction,27193 West Avenue,0.5,100.79,7/7/2022,4/20/2022,2.8,91.22,sunny,heavy,credit card,1,248,back roads
+06/12/2025,3,6880 Scott Drive,1741 Helena Hill,21.32,16.78,6/12/2022,2/5/2022,2.9,68.27,sunny,moderate,credit card,5,229,back roads
+06/12/2025,5,443 Bunting Lane,20 Dryden Trail,25.63,47.67,7/22/2022,10/11/2022,4.4,12.41,cloudy,heavy,cash,2,544,highway
+06/12/2025,4,82 Texas Junction,5299 Meadow Vale Drive,38.82,6.95,5/23/2022,10/16/2022,3.6,31.77,sunny,heavy,mobile payment,3,223,highway
+06/12/2025,8,845 Dryden Drive,398 Jay Lane,15.45,1.12,6/29/2022,10/5/2022,4.4,24.87,snowy,light,mobile payment,3,228,city streets
+06/12/2025,6,733 Buell Center,4851 Lakewood Gardens Lane,2.69,146.24,3/23/2022,3/9/2022,2.0,4.12,sunny,moderate,mobile payment,1,209,back roads
+06/12/2025,7,8 Towne Point,92 Packers Lane,28.84,62.09,5/9/2022,8/26/2022,3.9,4.66,snowy,heavy,cash,4,170,city streets
+06/12/2025,1,7 Luster Trail,29 Pepper Wood Avenue,0.35,104.31,2/26/2022,4/20/2022,4.8,33.8,cloudy,heavy,credit card,5,94,back roads
+06/12/2025,4,5969 Anzinger Road,77 Brentwood Junction,49.77,32.67,4/27/2022,10/5/2022,2.5,79.42,snowy,moderate,mobile payment,3,283,highway
+06/12/2025,3,05462 Sunbrook Court,582 Norway Maple Alley,11.86,55.57,5/8/2022,9/26/2022,1.6,77.02,snowy,moderate,credit card,3,78,city streets
+06/12/2025,6,86255 Welch Lane,62676 Stuart Place,14.4,99.46,9/4/2022,5/12/2022,1.7,1.87,sunny,heavy,mobile payment,4,264,back roads
+06/12/2025,3,7985 Red Cloud Parkway,47410 Dapin Way,1.17,18.51,7/5/2022,10/27/2022,1.6,56.84,sunny,light,cash,2,158,city streets
+06/12/2025,9,86 Trailsway Avenue,99 Starling Alley,12.54,37.4,3/1/2022,9/8/2022,2.7,82.1,cloudy,heavy,credit card,2,271,city streets
+06/12/2025,4,0 Bayside Lane,1425 Ilene Circle,15.13,67.05,9/1/2022,9/15/2022,4.2,46.79,sunny,light,credit card,5,113,back roads
+06/12/2025,8,30338 Oxford Center,15 Badeau Plaza,48.68,111.13,5/10/2022,4/23/2022,5.0,82.07,snowy,heavy,cash,5,401,city streets
+06/12/2025,9,64760 David Alley,04 Upham Junction,47.21,95.08,1/18/2022,4/17/2022,3.6,13.76,cloudy,light,cash,3,317,highway
+06/12/2025,6,791 Cordelia Lane,665 Heffernan Junction,28.54,64.93,7/4/2022,8/4/2022,2.3,41.67,snowy,light,credit card,3,594,city streets
+06/12/2025,6,50619 Rigney Parkway,821 Hanover Junction,1.69,10.39,7/5/2022,5/3/2022,4.7,87.51,sunny,light,cash,4,241,city streets
+06/12/2025,6,9398 Gulseth Junction,0 Cordelia Point,21.87,26.09,8/29/2022,9/2/2022,2.5,30.36,snowy,heavy,mobile payment,3,562,city streets
+06/12/2025,2,948 Northport Hill,93 Homewood Junction,11.23,111.52,5/16/2022,7/21/2022,4.0,36.04,cloudy,moderate,mobile payment,3,51,highway
+06/12/2025,8,46 Ludington Way,4 Oak Drive,1.94,10.21,1/10/2022,10/24/2022,2.2,34.12,cloudy,light,cash,2,442,back roads
+06/12/2025,3,99 Reinke Lane,496 Brentwood Plaza,42.64,92.74,7/18/2022,4/10/2022,2.8,41.35,sunny,moderate,cash,4,598,city streets
+06/12/2025,7,432 Vahlen Drive,6 Reindahl Hill,34.09,82.74,3/29/2022,7/22/2022,2.8,33.43,snowy,heavy,credit card,3,580,back roads
+06/12/2025,3,515 Mcbride Circle,53422 Dexter Point,16.61,42.59,7/19/2022,9/16/2022,1.1,65.97,cloudy,heavy,credit card,1,539,back roads
+06/12/2025,3,29 Anzinger Plaza,439 Arrowood Point,44.56,148.1,2/3/2022,11/1/2022,3.7,15.8,snowy,light,cash,2,576,back roads
+06/12/2025,4,6 Farragut Crossing,17 Harper Lane,19.13,6.72,1/27/2022,2/1/2022,2.7,40.94,sunny,moderate,cash,3,391,city streets
+06/12/2025,8,80 Prairie Rose Road,8 Sunfield Park,15.39,2.64,8/2/2022,1/12/2022,3.3,91.52,cloudy,moderate,mobile payment,1,331,city streets
+06/12/2025,4,9 Jenna Pass,657 Redwing Avenue,24.87,70.62,2/14/2022,3/2/2022,2.3,24.85,snowy,light,cash,4,375,city streets
+06/12/2025,4,966 Debra Parkway,358 Jay Place,27.88,48.96,4/26/2022,8/22/2022,4.4,84.35,sunny,heavy,cash,1,566,back roads
+06/12/2025,6,54402 Dovetail Park,53 Rutledge Place,40.4,49.9,8/20/2022,4/18/2022,2.6,93.41,cloudy,light,cash,2,569,back roads
+06/12/2025,7,32266 Swallow Center,11518 Pearson Junction,47.63,99.1,5/2/2022,10/20/2022,2.1,31.63,snowy,light,mobile payment,3,192,city streets
+06/12/2025,6,92631 Talmadge Avenue,0908 Carpenter Hill,23.05,114.54,2/7/2022,2/17/2022,3.0,84.47,snowy,light,mobile payment,4,10,highway
+06/12/2025,3,73665 Emmet Crossing,5247 Iowa Crossing,31.36,57.32,3/9/2022,6/27/2022,1.4,76.45,cloudy,moderate,credit card,4,470,highway
+06/12/2025,8,8 Corscot Parkway,588 Cottonwood Parkway,17.45,148.47,2/15/2022,7/31/2022,3.4,34.43,sunny,moderate,cash,3,298,back roads
+06/12/2025,1,3757 Swallow Junction,88475 Towne Terrace,36.19,128.28,5/14/2022,8/14/2022,4.8,51.44,snowy,moderate,cash,4,399,highway
+06/12/2025,4,1629 Lake View Street,793 Hanson Street,37.54,97.99,7/19/2022,6/3/2022,2.1,0.38,cloudy,heavy,credit card,3,155,city streets
+06/12/2025,9,61845 Algoma Way,07339 Caliangt Terrace,17.39,71.39,8/1/2022,9/15/2022,4.4,86.09,sunny,heavy,mobile payment,5,99,highway
+06/12/2025,7,97834 Loomis Lane,6225 Mosinee Junction,46.84,5.36,8/5/2022,3/14/2022,2.6,88.23,sunny,moderate,mobile payment,5,322,back roads
+06/12/2025,9,1634 Oak Hill,0054 Main Place,11.73,114.43,6/3/2022,6/17/2022,2.9,28.47,sunny,heavy,cash,2,192,highway
+06/12/2025,1,97 Gina Parkway,924 Clove Alley,44.66,91.72,3/6/2022,11/7/2022,3.7,84.85,cloudy,heavy,cash,3,48,back roads
+06/12/2025,3,10360 North Drive,74 Gina Court,35.46,32.61,8/30/2022,9/23/2022,3.9,60.23,snowy,moderate,mobile payment,4,131,city streets
+06/12/2025,3,9 Veith Way,8 Iowa Alley,24.62,58.19,3/10/2022,6/4/2022,1.8,88.52,cloudy,light,credit card,2,334,highway
+06/12/2025,8,6652 John Wall Lane,0838 Weeping Birch Alley,32.3,93.09,9/18/2022,4/13/2022,5.0,11.56,cloudy,light,credit card,3,246,back roads
+06/12/2025,4,73318 Rowland Plaza,2 Artisan Way,0.17,94.97,6/7/2022,10/22/2022,1.7,67.83,snowy,heavy,cash,4,227,city streets
+06/12/2025,2,98 Scofield Hill,38 Dennis Crossing,49.39,130.88,8/3/2022,10/24/2022,1.1,25.42,cloudy,light,cash,1,153,city streets
+06/12/2025,7,76 Loeprich Alley,03995 Riverside Hill,13.25,12.45,1/3/2022,7/15/2022,2.8,46.35,snowy,light,cash,5,317,back roads
+06/12/2025,9,62 Mallard Circle,1512 Upham Circle,28.24,85.95,3/29/2022,2/19/2022,1.4,50.67,sunny,light,credit card,5,285,highway
+06/12/2025,3,53243 Nobel Park,513 American Ash Parkway,37.55,141.74,3/18/2022,5/11/2022,1.7,27.61,cloudy,moderate,cash,4,402,city streets
+06/12/2025,4,53 Harper Court,50 Village Place,46.44,64.95,2/28/2022,6/18/2022,4.6,95.64,sunny,heavy,mobile payment,5,434,city streets
+06/12/2025,3,3 Holmberg Avenue,29 Farmco Point,3.72,78.72,8/30/2022,3/18/2022,4.1,50.17,sunny,light,credit card,4,19,city streets
+06/12/2025,6,17 Village Hill,87372 Prairieview Junction,24.17,132.72,4/4/2022,10/14/2022,2.4,71.57,snowy,heavy,credit card,5,301,back roads
+06/12/2025,6,27454 Banding Park,55 Tennyson Park,16.12,81.53,5/7/2022,2/13/2022,4.0,64.3,cloudy,moderate,cash,2,334,back roads
+06/12/2025,5,29 Lillian Hill,389 Bobwhite Crossing,46.15,2.2,1/16/2022,1/26/2022,1.8,4.02,sunny,light,cash,2,40,city streets
+06/12/2025,2,3514 Anderson Trail,5 Dayton Parkway,5.13,141.63,1/30/2022,10/22/2022,4.2,16.87,cloudy,moderate,mobile payment,2,306,back roads
+06/12/2025,7,09970 Washington Place,815 Ridgeway Road,25.64,27.39,8/2/2022,8/7/2022,2.4,27.83,sunny,heavy,credit card,1,33,back roads
+06/12/2025,1,2948 Dawn Plaza,31 East Place,3.82,109.3,8/29/2022,8/11/2022,1.4,74.69,snowy,light,cash,4,333,city streets
+06/12/2025,7,339 Thompson Lane,573 Summer Ridge Park,6.11,134.67,1/6/2022,9/2/2022,4.0,59.31,cloudy,moderate,cash,2,371,city streets
+06/12/2025,5,9529 Tennyson Avenue,72056 Golf Court,9.27,13.69,2/15/2022,8/23/2022,2.8,3.6,sunny,moderate,credit card,4,53,back roads
+06/12/2025,1,9 Waywood Alley,90264 Kenwood Point,31.08,132.96,1/25/2022,2/12/2022,4.9,93.64,snowy,heavy,cash,2,212,highway
+06/12/2025,9,2 Orin Place,44 Hermina Plaza,38.47,72.18,2/19/2022,8/4/2022,2.4,20.94,sunny,moderate,cash,2,234,highway
+06/12/2025,5,23181 Charing Cross Place,699 Hermina Point,34.97,51.86,2/16/2022,3/11/2022,3.9,71.47,sunny,heavy,cash,3,429,back roads
+06/12/2025,2,55 Blaine Circle,467 Rigney Crossing,11.48,45.14,5/13/2022,1/13/2022,2.3,56.4,cloudy,light,cash,5,364,city streets
+06/12/2025,5,86353 Southridge Drive,29154 Quincy Plaza,5.78,5.73,6/26/2022,11/3/2022,1.1,41.16,snowy,moderate,credit card,3,245,back roads
+06/12/2025,2,3873 Cody Place,0612 Corben Park,43.75,103.3,5/24/2022,9/21/2022,5.0,47.09,cloudy,light,cash,5,336,city streets
+06/12/2025,2,61 Arkansas Avenue,03 School Center,41.12,68.03,8/2/2022,7/3/2022,1.1,26.93,sunny,light,cash,2,460,highway
+06/12/2025,1,862 Fairfield Center,319 Chive Avenue,30.71,144.97,4/5/2022,5/1/2022,1.0,47.63,snowy,light,credit card,1,266,highway
+06/12/2025,8,3 Lien Road,776 Tennessee Park,9.82,133.53,1/5/2022,5/25/2022,5.0,89.06,snowy,heavy,mobile payment,5,587,back roads
+06/12/2025,1,1 Kingsford Court,36 Union Lane,24.12,14.21,4/25/2022,2/28/2022,2.8,85.73,sunny,light,cash,1,487,back roads
+06/12/2025,7,466 Saint Paul Avenue,24 Claremont Court,3.61,66.18,5/23/2022,5/23/2022,4.8,53.73,snowy,moderate,credit card,4,295,highway
+06/12/2025,8,2 Coolidge Plaza,11 Cottonwood Street,19.41,47.79,7/18/2022,10/10/2022,1.5,61.08,cloudy,light,mobile payment,2,387,city streets
+06/12/2025,7,50 Pawling Drive,53 Northfield Hill,22.9,140.59,2/16/2022,3/6/2022,2.5,59.49,cloudy,heavy,credit card,4,399,city streets
+06/12/2025,7,75 Norway Maple Street,1 Jenifer Terrace,40.58,109.88,4/25/2022,8/14/2022,1.9,8.23,sunny,moderate,credit card,2,451,back roads
+06/12/2025,6,24374 Hollow Ridge Place,93933 Fallview Terrace,39.16,10.45,3/7/2022,3/2/2022,4.5,55.13,sunny,heavy,mobile payment,2,251,back roads
+06/12/2025,3,842 Hudson Lane,44 Gulseth Circle,25.84,88.03,1/4/2022,7/2/2022,3.0,36.41,cloudy,heavy,mobile payment,4,430,city streets
+06/12/2025,9,854 Summer Ridge Alley,978 Armistice Circle,45.72,3.99,7/14/2022,2/17/2022,1.3,77.41,cloudy,moderate,mobile payment,4,225,highway
+06/12/2025,1,50900 Little Fleur Lane,38938 Sutherland Hill,24.24,1.1,1/23/2022,9/23/2022,1.4,83.71,cloudy,heavy,cash,3,353,highway
+06/12/2025,9,8 Mayer Pass,538 Garrison Drive,42.11,137.2,4/14/2022,2/17/2022,1.9,10.36,sunny,heavy,cash,3,346,back roads
+06/12/2025,5,068 Rigney Circle,0 American Crossing,0.57,68.04,5/24/2022,10/10/2022,4.0,72.32,cloudy,light,credit card,1,12,city streets
+06/12/2025,8,4 Redwing Circle,965 Kipling Drive,19.58,41.78,2/11/2022,5/12/2022,3.8,53.72,snowy,moderate,cash,1,464,city streets
+06/12/2025,2,73027 Tony Avenue,7 Maple Way,48.31,4.19,4/16/2022,3/16/2022,1.3,23.63,cloudy,moderate,mobile payment,4,442,city streets
+06/12/2025,9,45363 Arizona Street,0272 Loomis Circle,41.31,93.53,4/29/2022,3/27/2022,2.9,19.67,cloudy,heavy,mobile payment,1,303,highway
+06/12/2025,7,8 Kingsford Road,42 Reindahl Trail,17.6,102.98,2/23/2022,6/23/2022,3.9,20.61,cloudy,heavy,cash,5,312,city streets
+06/12/2025,4,33 Towne Street,300 Paget Trail,17.33,97.66,9/13/2022,1/24/2022,4.5,37.08,cloudy,moderate,mobile payment,5,417,city streets
+06/12/2025,3,4 Prairieview Place,23478 Onsgard Circle,33.79,129.29,4/18/2022,4/13/2022,1.3,4.96,snowy,light,credit card,1,535,highway
+06/12/2025,9,5082 Stoughton Pass,1 Starling Trail,0.26,85.5,9/5/2022,9/22/2022,2.2,86.42,sunny,moderate,cash,3,149,back roads
+06/12/2025,7,1 7th Center,78493 Warbler Crossing,15.03,137.1,7/20/2022,4/16/2022,2.4,16.27,snowy,light,credit card,1,382,city streets
+06/12/2025,4,6577 Oakridge Terrace,76 Village Green Junction,37.77,123.97,4/3/2022,11/6/2022,3.7,95.39,cloudy,heavy,mobile payment,5,216,city streets
+06/12/2025,4,4 Pearson Way,1 5th Crossing,2.5,63.07,6/25/2022,1/9/2022,3.6,93.77,cloudy,heavy,credit card,3,76,back roads
+06/12/2025,3,8054 Mallory Park,9405 Golf Pass,37.75,140.83,1/17/2022,7/17/2022,2.3,12.53,sunny,light,cash,3,39,city streets
+06/12/2025,5,845 Blaine Crossing,70 Ronald Regan Alley,20.27,6.77,8/19/2022,2/6/2022,4.7,12.07,cloudy,moderate,mobile payment,4,314,highway
+06/12/2025,1,5878 Claremont Circle,98460 Leroy Parkway,25.5,52.48,4/25/2022,3/18/2022,2.7,55.87,cloudy,light,credit card,5,360,highway
+06/12/2025,9,761 Graceland Court,726 Harper Park,28.46,147.08,7/23/2022,2/16/2022,2.7,78.98,snowy,moderate,credit card,1,454,back roads
+06/12/2025,1,48 Schmedeman Junction,25 American Terrace,28.54,141.62,4/30/2022,9/30/2022,2.1,85.41,snowy,moderate,cash,2,54,back roads
+06/12/2025,6,13 Sunnyside Lane,12 Summer Ridge Way,2.45,75.8,1/30/2022,3/9/2022,1.0,53.24,snowy,light,cash,5,21,highway
+06/12/2025,2,25 Marcy Pass,506 Hooker Road,33.83,50.04,6/12/2022,4/23/2022,2.6,1.57,cloudy,heavy,credit card,1,487,back roads
+06/12/2025,6,75833 Myrtle Alley,81 Fuller Trail,29.5,145.51,2/6/2022,4/29/2022,4.0,20.07,snowy,heavy,credit card,5,189,back roads
+06/12/2025,6,24225 West Way,713 Meadow Valley Court,15.69,16.7,4/22/2022,8/16/2022,2.2,11.96,snowy,light,mobile payment,3,120,city streets
+06/12/2025,6,81113 Utah Plaza,15 Novick Road,15.86,72.79,7/17/2022,7/20/2022,2.4,76.68,cloudy,heavy,mobile payment,1,98,highway
+06/12/2025,3,8636 Becker Plaza,597 Crest Line Crossing,33.55,21.09,3/8/2022,7/31/2022,2.6,43.48,cloudy,heavy,credit card,5,381,city streets
+06/12/2025,1,4335 Oneill Point,386 Texas Point,13.03,68.88,3/6/2022,8/15/2022,3.4,79.31,cloudy,heavy,credit card,5,409,highway
+06/12/2025,1,45911 Vermont Drive,5 Londonderry Avenue,8.8,145.71,4/10/2022,6/28/2022,3.0,18.45,sunny,light,credit card,4,459,highway
+06/12/2025,1,8161 Manufacturers Street,71 Holmberg Crossing,6.15,122.74,1/18/2022,2/23/2022,2.5,67.35,cloudy,moderate,cash,4,386,city streets
+06/12/2025,6,11 5th Circle,34 Reindahl Alley,24.39,137.64,6/8/2022,2/20/2022,2.6,59.8,sunny,heavy,cash,3,364,back roads
+06/12/2025,6,47 Lillian Terrace,29693 Homewood Park,48.07,60.2,9/10/2022,9/24/2022,2.7,6.06,snowy,light,cash,1,29,highway
+06/12/2025,4,5860 Dovetail Way,3 Shopko Lane,32.2,3.31,3/6/2022,4/14/2022,2.5,54.84,sunny,heavy,cash,5,344,city streets
+06/12/2025,8,72251 Fuller Pass,4 Utah Drive,0.7,91.83,5/4/2022,9/4/2022,1.8,17.09,sunny,moderate,mobile payment,5,446,highway
+06/12/2025,2,5589 Emmet Crossing,418 Corscot Center,7.11,63.62,1/3/2022,5/5/2022,1.3,14.44,sunny,moderate,cash,4,337,city streets
+06/12/2025,3,0 Debs Street,17 Sutherland Point,47.13,119.41,6/19/2022,1/18/2022,1.6,2.62,snowy,light,mobile payment,2,384,back roads
+06/12/2025,1,95 Hazelcrest Road,846 Clove Way,23.06,111.79,9/5/2022,2/26/2022,3.6,58.07,snowy,heavy,cash,2,469,highway
+06/12/2025,4,5 Straubel Terrace,6800 Hooker Avenue,36.88,16.79,5/12/2022,4/16/2022,2.3,54.48,snowy,moderate,credit card,1,263,back roads
+06/12/2025,2,5 Waywood Drive,49 Sugar Court,10.14,121.64,3/27/2022,1/20/2022,2.0,8.25,sunny,heavy,mobile payment,5,436,highway
+06/12/2025,3,72121 Onsgard Court,93 Golf Course Way,40.19,59.86,2/22/2022,11/1/2022,3.2,18.06,cloudy,light,cash,4,451,back roads
+06/12/2025,3,19 7th Way,1152 Mendota Place,18.56,114.2,7/15/2022,7/15/2022,1.1,36.7,cloudy,light,mobile payment,4,488,back roads
+06/12/2025,8,9 Bonner Circle,67 Briar Crest Lane,48.13,121.39,3/6/2022,7/5/2022,4.9,93.6,cloudy,light,cash,5,266,city streets
+06/12/2025,8,4 Garrison Junction,2896 Glendale Center,25.82,18.65,6/17/2022,10/16/2022,3.4,33.44,cloudy,heavy,credit card,3,437,city streets
+06/12/2025,7,4 Waywood Terrace,33 Muir Pass,26.0,89.95,4/21/2022,4/21/2022,4.2,71.29,snowy,moderate,credit card,2,29,highway
+06/12/2025,7,00 Tomscot Place,35196 Jackson Pass,42.11,135.2,9/5/2022,9/22/2022,1.8,35.82,sunny,moderate,cash,3,313,highway
+06/12/2025,6,2 Dwight Way,9 Monterey Crossing,33.57,2.69,7/20/2022,7/10/2022,2.8,72.12,sunny,moderate,mobile payment,1,108,back roads
+06/12/2025,2,40 Lunder Terrace,7 Monica Point,35.08,72.86,4/15/2022,9/4/2022,1.8,3.81,sunny,heavy,cash,3,69,city streets
+06/12/2025,1,833 6th Pass,13 Morning Parkway,48.28,133.61,4/5/2022,2/9/2022,3.7,78.39,snowy,light,mobile payment,3,23,highway
+06/12/2025,3,6 Lindbergh Way,7463 Schmedeman Hill,12.56,96.74,4/30/2022,4/11/2022,2.1,79.3,sunny,moderate,cash,2,100,city streets
+06/12/2025,3,50 Marcy Way,3153 Norway Maple Road,29.39,9.34,5/1/2022,1/20/2022,2.0,28.99,snowy,light,cash,1,556,back roads
+06/12/2025,1,38 Arrowood Alley,48 Farwell Hill,5.04,85.94,1/29/2022,5/28/2022,3.8,71.33,cloudy,heavy,credit card,3,145,back roads
+06/12/2025,6,1045 Schiller Parkway,3926 Stephen Center,6.55,141.04,2/13/2022,4/22/2022,2.8,62.6,cloudy,light,credit card,4,13,city streets
+06/12/2025,2,22 Basil Plaza,00 Rowland Street,9.03,114.63,3/18/2022,3/28/2022,1.8,58.16,sunny,light,mobile payment,4,253,city streets
+06/12/2025,3,46343 Londonderry Avenue,57 Talisman Plaza,30.07,94.59,2/13/2022,8/27/2022,3.2,67.69,snowy,light,credit card,4,409,back roads
+06/12/2025,7,88 Westend Avenue,9903 Moland Point,44.21,10.48,3/20/2022,9/15/2022,2.4,76.57,snowy,heavy,cash,1,299,back roads
+06/12/2025,7,380 Hovde Crossing,5933 Sunbrook Road,4.1,120.44,6/11/2022,7/25/2022,4.1,93.72,sunny,light,cash,5,30,back roads
+06/12/2025,3,62442 Nevada Place,199 Oak Junction,9.27,72.8,4/14/2022,6/11/2022,1.9,18.56,sunny,heavy,credit card,4,487,city streets
+06/12/2025,9,350 Schlimgen Center,87182 Warner Point,15.56,141.1,4/23/2022,3/16/2022,3.2,94.42,snowy,heavy,mobile payment,3,568,back roads
+06/12/2025,2,7 Myrtle Alley,97321 Rigney Point,15.99,142.0,7/17/2022,8/21/2022,3.6,36.37,cloudy,moderate,credit card,1,80,back roads
+06/12/2025,4,1117 Warbler Court,1 Nelson Circle,15.83,26.63,7/19/2022,2/4/2022,1.2,0.39,cloudy,light,mobile payment,3,3,highway
+06/12/2025,4,9 Buena Vista Drive,4022 Blaine Junction,23.06,103.59,4/29/2022,4/5/2022,4.2,63.44,cloudy,moderate,credit card,1,91,back roads
+06/12/2025,6,687 Derek Road,054 Sachtjen Way,7.88,107.61,7/6/2022,7/24/2022,2.1,18.54,sunny,heavy,mobile payment,2,534,back roads
+06/12/2025,1,61826 Monterey Place,2898 Service Place,40.3,19.27,8/13/2022,4/19/2022,2.7,37.07,sunny,light,cash,1,412,highway
+06/12/2025,5,11674 Kedzie Crossing,3093 Birchwood Junction,30.34,46.43,6/7/2022,7/20/2022,3.0,73.65,sunny,light,cash,1,401,highway
+06/12/2025,8,33511 Summer Ridge Circle,58 Emmet Center,8.49,89.11,4/25/2022,2/22/2022,2.9,69.81,cloudy,light,cash,4,14,highway
+06/12/2025,4,34616 Beilfuss Drive,0 Stuart Pass,17.15,144.9,3/25/2022,6/8/2022,4.5,75.63,snowy,light,credit card,2,502,back roads
+06/12/2025,5,0117 Morrow Drive,76167 Nelson Point,28.98,33.33,9/4/2022,1/6/2022,2.1,16.28,sunny,moderate,mobile payment,3,259,highway
+06/12/2025,5,107 Luster Place,8362 Banding Road,23.86,147.55,3/18/2022,8/22/2022,1.5,98.13,snowy,heavy,cash,2,583,highway
+06/12/2025,4,09 Kensington Park,2232 Mockingbird Street,36.37,48.32,6/18/2022,2/25/2022,1.5,55.49,cloudy,light,cash,1,279,highway
+06/12/2025,4,62963 Brown Terrace,97 Bluejay Road,25.24,126.97,4/11/2022,7/9/2022,1.4,33.51,cloudy,moderate,credit card,5,477,city streets
+06/12/2025,3,90 Briar Crest Road,1882 Starling Crossing,25.36,52.15,8/29/2022,10/15/2022,2.6,84.98,snowy,moderate,credit card,2,372,city streets
+06/12/2025,5,61331 Bayside Hill,82 Granby Lane,37.04,139.8,5/2/2022,4/7/2022,1.4,27.83,sunny,moderate,credit card,1,19,back roads
+06/12/2025,2,0271 Larry Alley,3136 Dakota Place,33.37,139.45,5/28/2022,5/20/2022,3.2,5.41,sunny,light,cash,2,234,city streets
+06/12/2025,1,9 Lindbergh Terrace,817 Hovde Court,12.73,9.95,8/15/2022,4/19/2022,3.0,37.49,sunny,moderate,cash,2,290,highway
+06/12/2025,8,0 Scott Court,03 Ronald Regan Park,33.22,70.9,1/9/2022,4/2/2022,3.4,88.73,sunny,moderate,cash,2,338,city streets
+06/12/2025,4,515 Spaight Place,0 Michigan Center,3.03,13.29,8/4/2022,3/6/2022,4.9,7.38,snowy,heavy,mobile payment,1,126,back roads
+06/12/2025,7,304 Colorado Center,7571 Saint Paul Street,27.22,23.15,7/26/2022,11/7/2022,2.1,43.28,snowy,heavy,credit card,5,414,city streets
+06/12/2025,1,7 Larry Street,5361 Bay Street,28.07,147.96,5/22/2022,9/29/2022,4.5,24.31,sunny,light,cash,5,112,city streets
+06/12/2025,3,7235 Welch Terrace,84 Jenifer Trail,16.33,7.2,2/15/2022,10/15/2022,2.3,7.76,cloudy,heavy,cash,1,529,city streets
+06/12/2025,1,240 Kennedy Avenue,32727 Fair Oaks Court,43.99,130.36,7/18/2022,3/28/2022,2.8,25.17,cloudy,heavy,credit card,1,375,city streets
+06/12/2025,8,47295 Arkansas Place,706 Clyde Gallagher Crossing,37.87,47.01,8/9/2022,6/12/2022,1.4,57.84,sunny,heavy,mobile payment,5,534,back roads
+06/12/2025,3,7 Bonner Point,9 Scoville Drive,16.56,147.62,1/31/2022,10/21/2022,2.9,46.06,sunny,moderate,mobile payment,2,184,city streets
+06/12/2025,4,5 Hauk Trail,7 Shasta Alley,17.22,47.51,7/30/2022,7/12/2022,2.8,72.03,cloudy,heavy,mobile payment,4,489,highway
+06/12/2025,1,604 Corscot Drive,633 Village Court,23.93,35.12,6/20/2022,4/16/2022,4.3,73.47,snowy,heavy,cash,3,54,back roads
+06/12/2025,1,14908 Texas Crossing,53750 Karstens Road,17.6,13.8,8/9/2022,6/30/2022,3.6,63.79,sunny,moderate,cash,1,342,city streets
+06/12/2025,9,208 Havey Street,45 Loftsgordon Hill,48.42,35.33,3/28/2022,11/6/2022,2.5,24.22,sunny,light,cash,2,306,city streets
+06/12/2025,7,43363 Little Fleur Circle,264 Continental Lane,47.88,32.47,5/22/2022,6/28/2022,2.2,16.46,sunny,moderate,cash,1,150,back roads
+06/12/2025,8,224 Maryland Trail,2 Oak Valley Drive,19.54,143.6,8/1/2022,5/30/2022,4.0,94.6,sunny,heavy,credit card,3,235,city streets
+06/12/2025,2,1191 Welch Road,82371 Melody Crossing,11.26,144.13,8/21/2022,10/10/2022,4.3,96.5,sunny,moderate,mobile payment,1,310,city streets
+06/12/2025,1,84315 Leroy Trail,505 Hintze Parkway,46.8,22.09,4/3/2022,1/29/2022,4.0,29.54,snowy,light,cash,4,594,highway
+06/12/2025,3,38 Ramsey Terrace,990 Di Loreto Lane,43.91,35.92,9/3/2022,5/14/2022,3.2,10.6,sunny,moderate,credit card,3,205,city streets
+06/12/2025,1,85 Pearson Place,170 Eastlawn Junction,21.5,60.14,3/29/2022,9/8/2022,3.6,34.94,sunny,heavy,cash,4,9,back roads
+06/12/2025,3,52 5th Terrace,925 Sachtjen Avenue,0.88,31.86,1/26/2022,5/13/2022,4.9,53.45,snowy,light,credit card,2,16,highway
+06/12/2025,5,57302 Longview Parkway,8 Melrose Avenue,23.16,135.75,4/5/2022,4/10/2022,2.8,46.0,cloudy,heavy,credit card,1,495,back roads
+06/12/2025,9,22574 Tennyson Way,7948 Reinke Crossing,2.95,72.97,2/27/2022,7/14/2022,4.8,1.73,snowy,moderate,cash,3,401,city streets
+06/12/2025,2,3701 Mitchell Place,55042 Lien Trail,10.74,43.85,6/26/2022,9/3/2022,1.1,74.55,sunny,light,cash,2,247,city streets
+06/12/2025,9,75 Pierstorff Avenue,74739 Redwing Parkway,4.24,25.25,7/20/2022,7/28/2022,2.0,94.11,sunny,heavy,mobile payment,2,380,city streets
+06/12/2025,5,4 Schmedeman Street,00364 Crescent Oaks Alley,22.44,68.04,6/12/2022,9/21/2022,2.9,62.58,cloudy,light,mobile payment,2,38,back roads
+06/12/2025,3,09602 Redwing Street,80194 Homewood Point,12.37,6.7,2/25/2022,5/14/2022,1.6,20.9,sunny,light,cash,3,521,highway
+06/12/2025,8,88285 Hallows Way,22190 Gerald Crossing,12.11,40.41,6/12/2022,3/31/2022,3.3,16.06,sunny,heavy,credit card,2,228,highway
+06/12/2025,7,1 Kinsman Alley,291 Delladonna Circle,4.34,40.8,3/24/2022,7/25/2022,2.5,93.88,snowy,moderate,cash,1,25,highway
+06/12/2025,5,3688 Canary Drive,91723 Katie Circle,44.42,63.74,2/20/2022,6/16/2022,1.5,42.08,cloudy,heavy,mobile payment,1,271,back roads
+06/12/2025,2,64 Sloan Crossing,465 Kenwood Lane,39.68,140.38,7/10/2022,4/28/2022,4.2,43.47,snowy,light,cash,4,202,back roads
+06/12/2025,6,199 Schurz Point,283 Thackeray Point,28.51,53.08,3/13/2022,3/17/2022,3.9,97.78,cloudy,heavy,credit card,3,248,back roads
+06/12/2025,5,16998 Golf Course Way,1 Hermina Junction,22.51,27.09,1/4/2022,6/17/2022,4.7,7.66,sunny,light,mobile payment,2,360,highway
+06/12/2025,4,888 American Ash Lane,6 Morning Circle,47.51,107.73,3/10/2022,1/16/2022,5.0,96.14,snowy,heavy,credit card,4,253,back roads
+06/12/2025,4,20754 Prentice Junction,8638 Sugar Park,38.65,24.2,3/11/2022,7/25/2022,1.6,14.11,sunny,heavy,mobile payment,4,232,highway
+06/12/2025,4,1754 Mallory Junction,8112 Sloan Drive,30.16,116.72,3/18/2022,3/28/2022,4.6,10.33,cloudy,heavy,mobile payment,1,375,city streets
+06/12/2025,9,58 Duke Drive,34739 Riverside Junction,10.42,103.56,2/19/2022,6/29/2022,4.2,81.93,snowy,light,mobile payment,1,418,highway
+06/12/2025,3,07444 Ludington Parkway,55181 Dapin Park,35.45,55.9,1/26/2022,7/10/2022,4.8,93.58,cloudy,heavy,mobile payment,5,13,back roads
+06/12/2025,4,50766 Darwin Way,97 Granby Park,35.9,107.88,8/15/2022,7/1/2022,1.9,2.39,snowy,moderate,credit card,4,7,city streets
+06/12/2025,1,0 Larry Drive,6795 Sauthoff Place,37.65,81.75,3/3/2022,5/15/2022,3.1,64.38,snowy,heavy,cash,4,295,back roads
+06/12/2025,2,87889 Monterey Crossing,84610 Forest Hill,3.39,148.84,7/11/2022,3/5/2022,2.4,63.21,sunny,moderate,mobile payment,5,235,back roads
+06/12/2025,6,8 Nova Place,70 Artisan Avenue,13.55,56.1,8/25/2022,9/15/2022,3.3,69.37,snowy,moderate,cash,3,6,highway
+06/12/2025,6,807 Logan Lane,3 Commercial Parkway,47.45,138.58,6/21/2022,4/24/2022,3.1,77.4,cloudy,heavy,mobile payment,4,577,city streets
+06/12/2025,6,0 Eggendart Drive,5090 Reinke Junction,19.85,142.96,5/24/2022,3/31/2022,4.3,4.78,sunny,moderate,mobile payment,3,398,city streets
+06/12/2025,6,3 Fordem Park,011 Saint Paul Point,23.04,80.08,5/27/2022,8/31/2022,1.6,88.72,snowy,heavy,mobile payment,1,544,highway
+06/12/2025,8,7398 Rutledge Pass,88 Bashford Junction,37.13,21.61,5/17/2022,1/14/2022,3.0,32.04,cloudy,moderate,mobile payment,2,168,back roads
+06/12/2025,5,9930 Fairview Alley,029 Aberg Road,26.33,108.5,4/11/2022,10/4/2022,4.4,47.36,sunny,light,mobile payment,1,364,city streets
+06/12/2025,7,16412 Bunker Hill Avenue,88542 Division Parkway,27.61,133.2,9/6/2022,9/29/2022,3.3,63.83,cloudy,heavy,credit card,5,363,back roads
+06/12/2025,7,0 Raven Avenue,4 Moulton Terrace,2.17,45.85,2/2/2022,8/5/2022,4.3,2.31,cloudy,heavy,mobile payment,3,460,city streets
+06/12/2025,1,0151 Continental Hill,6901 Kings Center,4.41,2.58,7/4/2022,9/15/2022,1.5,63.04,snowy,light,mobile payment,3,402,highway
+06/12/2025,5,90 Sullivan Junction,028 Fisk Plaza,47.89,131.04,9/6/2022,6/18/2022,2.4,4.96,sunny,moderate,cash,3,44,highway
+06/12/2025,6,35 School Center,4191 Homewood Terrace,24.88,19.53,4/6/2022,9/2/2022,3.3,17.58,cloudy,heavy,mobile payment,3,364,city streets
+06/12/2025,9,0611 Fieldstone Plaza,519 Northwestern Alley,27.8,143.26,4/24/2022,9/18/2022,1.3,61.22,cloudy,moderate,credit card,2,72,highway
+06/12/2025,6,22 Ruskin Way,62214 Pennsylvania Point,30.59,79.89,4/18/2022,6/17/2022,2.9,71.95,sunny,heavy,credit card,3,83,highway
+06/12/2025,2,5 Colorado Circle,84 Crownhardt Place,47.82,110.44,4/2/2022,5/28/2022,3.0,38.64,cloudy,moderate,mobile payment,3,67,highway
+06/12/2025,4,5020 Heath Crossing,21837 Caliangt Court,0.24,79.79,5/7/2022,9/10/2022,1.6,69.57,sunny,light,credit card,5,536,city streets
+06/12/2025,2,00237 Gale Avenue,156 Hoard Plaza,12.09,126.64,4/2/2022,11/7/2022,3.9,97.84,snowy,heavy,mobile payment,1,362,highway
+06/12/2025,9,88709 Corscot Road,5339 Union Court,13.08,114.08,5/4/2022,8/22/2022,4.7,83.73,cloudy,light,credit card,1,599,highway
+06/12/2025,5,622 Brickson Park Trail,0937 Hoard Trail,40.79,95.5,2/9/2022,1/19/2022,4.9,42.81,cloudy,light,mobile payment,3,22,back roads
+06/12/2025,1,98793 Onsgard Center,11764 Monument Parkway,44.3,6.07,8/12/2022,10/31/2022,4.0,37.81,sunny,light,mobile payment,4,279,back roads
+06/12/2025,7,6419 Shopko Point,7878 Barby Junction,5.45,46.05,6/18/2022,8/15/2022,2.9,97.74,snowy,moderate,mobile payment,5,366,back roads
+06/12/2025,6,155 Dunning Street,073 Oakridge Crossing,25.22,19.89,8/28/2022,3/3/2022,4.6,23.93,sunny,light,mobile payment,3,100,highway
+06/12/2025,2,369 Trailsway Way,0 Susan Drive,49.61,124.57,7/5/2022,8/23/2022,2.6,0.13,snowy,heavy,mobile payment,5,41,highway
+06/12/2025,7,45995 Trailsway Trail,254 Transport Point,41.18,22.2,6/1/2022,11/1/2022,1.3,24.72,sunny,light,cash,5,198,city streets
+06/12/2025,6,9987 Charing Cross Hill,64 Prairieview Point,35.24,67.02,9/6/2022,2/3/2022,1.1,19.65,snowy,heavy,credit card,5,517,back roads
+06/12/2025,4,0607 Kings Center,06592 Fulton Place,49.55,30.91,4/15/2022,1/20/2022,1.0,20.44,snowy,light,credit card,2,128,highway
+06/12/2025,3,88157 Morning Drive,8574 Sachs Trail,40.29,28.03,5/20/2022,1/21/2022,4.5,92.4,cloudy,moderate,credit card,3,454,back roads
+06/12/2025,8,151 Emmet Lane,760 Pearson Crossing,7.84,38.23,3/12/2022,10/4/2022,3.3,69.88,cloudy,light,credit card,5,289,highway
+06/12/2025,1,295 Iowa Place,31 Monterey Avenue,37.11,134.96,1/3/2022,4/13/2022,1.2,68.88,snowy,moderate,credit card,5,1,city streets
+06/12/2025,5,8 Sommers Drive,7 Larry Drive,25.85,89.16,2/3/2022,1/20/2022,1.3,42.08,cloudy,moderate,cash,5,221,highway
+06/12/2025,9,7314 Bluestem Junction,977 Talisman Avenue,18.29,13.73,8/5/2022,10/4/2022,4.4,57.21,sunny,moderate,cash,4,161,city streets
+06/12/2025,8,620 Talmadge Place,2320 North Trail,15.33,24.59,5/11/2022,5/31/2022,4.8,85.03,sunny,light,cash,2,248,city streets
+06/12/2025,5,38 Hansons Hill,75 American Lane,13.97,83.03,2/9/2022,4/2/2022,1.5,46.32,sunny,light,credit card,2,58,back roads
+06/12/2025,7,121 Tony Lane,798 Orin Lane,47.74,41.09,5/1/2022,6/26/2022,4.4,36.71,cloudy,heavy,mobile payment,3,78,city streets
+06/12/2025,9,96195 Mcguire Terrace,683 Towne Plaza,20.56,59.73,9/14/2022,3/17/2022,3.8,21.6,snowy,light,credit card,3,265,city streets
+06/12/2025,1,6 Shasta Point,49 Michigan Parkway,25.01,37.9,9/1/2022,3/14/2022,2.7,40.26,cloudy,heavy,cash,3,307,highway
+06/12/2025,2,63 Holmberg Drive,9047 Lillian Street,7.93,33.72,2/12/2022,8/13/2022,4.4,18.55,cloudy,moderate,mobile payment,5,91,back roads
+06/12/2025,5,19158 Scott Place,79 Tennessee Drive,23.24,148.87,4/30/2022,5/8/2022,2.4,41.04,snowy,heavy,mobile payment,3,485,city streets
+06/12/2025,5,07906 Sycamore Crossing,88 Rigney Way,5.58,127.26,1/31/2022,2/15/2022,4.4,13.43,cloudy,moderate,mobile payment,5,551,back roads
+06/12/2025,4,56 Jay Street,7152 Warbler Way,17.75,60.12,5/16/2022,6/15/2022,3.0,35.85,sunny,heavy,credit card,3,280,city streets
+06/12/2025,9,20661 Westport Hill,40 Fieldstone Lane,1.29,118.14,8/26/2022,7/24/2022,2.8,51.8,sunny,light,credit card,5,315,city streets
+06/12/2025,9,9310 Fulton Center,37871 Donald Drive,21.72,63.61,5/19/2022,10/18/2022,3.4,34.74,cloudy,moderate,credit card,5,505,back roads
+06/12/2025,3,7771 Utah Avenue,75 Wayridge Point,48.28,77.08,6/2/2022,4/2/2022,4.7,97.64,sunny,light,credit card,1,117,city streets
+06/12/2025,8,6753 Lighthouse Bay Junction,765 Carberry Plaza,14.22,100.65,3/1/2022,11/2/2022,3.7,38.04,sunny,moderate,cash,5,39,back roads
+06/12/2025,9,01 Morrow Terrace,8 Clarendon Plaza,28.7,35.83,7/31/2022,5/23/2022,2.6,50.56,snowy,moderate,mobile payment,2,267,highway
+06/12/2025,5,898 Bartelt Circle,9 Springs Avenue,42.16,101.43,4/23/2022,1/23/2022,3.9,47.06,snowy,light,cash,1,550,highway
+06/12/2025,5,95692 Porter Parkway,1 Almo Court,22.16,63.54,7/27/2022,3/4/2022,4.0,73.34,sunny,moderate,cash,4,356,city streets
+06/12/2025,9,108 Heffernan Court,215 Victoria Road,3.38,69.48,7/16/2022,8/12/2022,4.7,50.78,cloudy,moderate,mobile payment,5,367,back roads
+06/12/2025,5,5 Nova Road,3084 6th Street,26.39,34.48,3/18/2022,2/12/2022,2.6,30.04,cloudy,light,mobile payment,2,248,city streets
+06/12/2025,3,7416 Eastwood Parkway,5158 Pine View Center,34.4,56.73,4/10/2022,7/10/2022,1.6,85.47,cloudy,moderate,cash,3,152,back roads
+06/12/2025,5,16 West Trail,76 Crowley Center,16.7,91.64,6/27/2022,10/15/2022,2.5,21.12,cloudy,heavy,mobile payment,1,590,city streets
+06/12/2025,7,474 Lyons Trail,5 Maywood Junction,33.41,127.39,7/18/2022,1/15/2022,3.3,37.28,cloudy,moderate,mobile payment,1,348,city streets
+06/12/2025,4,8992 Melrose Avenue,83396 Blue Bill Park Terrace,19.59,17.3,3/17/2022,3/8/2022,3.5,48.37,cloudy,heavy,cash,1,501,city streets
+06/12/2025,6,3812 Anhalt Terrace,0 Jenna Point,40.66,94.92,1/9/2022,5/2/2022,5.0,23.18,cloudy,moderate,cash,1,203,back roads
+06/12/2025,4,5 Dahle Alley,859 Manufacturers Circle,26.68,41.41,7/10/2022,9/23/2022,1.7,68.04,cloudy,moderate,mobile payment,3,12,highway
+06/12/2025,3,92236 Fordem Center,93584 Atwood Center,15.71,12.98,4/29/2022,9/3/2022,2.3,24.88,sunny,moderate,mobile payment,4,317,back roads
+06/12/2025,7,84 Spaight Lane,33641 Jenifer Place,36.39,40.52,6/1/2022,6/10/2022,1.7,77.13,snowy,moderate,credit card,3,176,back roads
+06/12/2025,1,3 Red Cloud Pass,2 Basil Center,27.96,126.31,5/29/2022,7/13/2022,4.3,65.78,sunny,heavy,cash,3,373,back roads
+06/12/2025,4,47269 Dixon Hill,6898 Warner Center,37.6,15.59,3/26/2022,8/17/2022,4.8,38.56,snowy,heavy,cash,5,114,highway
+06/12/2025,6,57867 Farragut Place,4 New Castle Pass,39.01,116.09,5/6/2022,11/2/2022,4.4,29.26,cloudy,heavy,cash,2,29,back roads
+06/12/2025,8,34250 Delaware Road,24 Mayfield Place,42.44,16.73,5/21/2022,6/28/2022,2.3,54.73,snowy,moderate,mobile payment,2,54,back roads
+06/12/2025,5,60469 Bultman Lane,1242 Mandrake Street,16.34,8.68,6/19/2022,4/15/2022,2.7,79.86,cloudy,moderate,mobile payment,2,67,city streets
+06/12/2025,1,4 Barnett Park,4 Summer Ridge Lane,32.36,103.04,5/10/2022,1/22/2022,2.3,49.86,cloudy,heavy,cash,2,519,highway
+06/12/2025,3,6960 Scofield Center,3070 Comanche Parkway,10.48,60.88,7/27/2022,8/11/2022,4.1,20.34,snowy,light,mobile payment,4,90,highway
+06/12/2025,1,1921 Bultman Drive,0 American Trail,3.25,94.49,7/5/2022,10/3/2022,4.4,38.04,cloudy,light,credit card,1,544,highway
+06/12/2025,2,51844 Canary Road,35 Mandrake Park,23.28,87.03,5/26/2022,3/21/2022,2.1,85.58,sunny,heavy,mobile payment,4,76,city streets
+06/12/2025,2,81 American Ash Court,124 Dottie Road,32.58,89.43,8/5/2022,6/26/2022,4.2,44.53,sunny,moderate,credit card,1,170,back roads
+06/12/2025,9,53783 Charing Cross Court,8704 Mendota Park,24.23,116.85,8/23/2022,10/21/2022,1.2,26.94,cloudy,light,credit card,2,232,highway
+06/12/2025,2,61309 Monica Center,3 Elgar Hill,9.9,3.85,9/6/2022,11/6/2022,2.1,9.01,cloudy,heavy,cash,1,177,highway
+06/12/2025,2,1 Rieder Avenue,8 Dixon Road,9.45,68.95,6/13/2022,7/20/2022,4.4,59.16,cloudy,moderate,mobile payment,1,474,back roads
+06/12/2025,6,4 Becker Drive,566 Fisk Point,49.47,32.65,6/14/2022,10/27/2022,2.5,22.35,sunny,heavy,credit card,4,374,highway
+06/12/2025,3,3907 Paget Plaza,789 Kings Alley,21.89,131.78,5/2/2022,7/16/2022,1.7,81.44,snowy,heavy,credit card,4,211,highway
+06/12/2025,9,44 Myrtle Avenue,15 Valley Edge Way,20.15,110.54,8/14/2022,6/20/2022,4.3,69.35,sunny,heavy,credit card,2,386,city streets
+06/12/2025,9,3 Dahle Plaza,5 Westport Trail,32.46,139.78,3/6/2022,5/31/2022,1.9,91.43,sunny,heavy,mobile payment,5,127,highway
+06/12/2025,3,39 Warbler Center,0975 Havey Point,49.14,43.26,9/6/2022,8/26/2022,2.1,40.99,sunny,light,cash,4,450,back roads
+06/12/2025,6,728 Lillian Drive,705 Lighthouse Bay Road,14.75,5.48,5/28/2022,4/11/2022,4.5,56.78,snowy,light,credit card,1,419,highway
+06/12/2025,1,9 Coleman Parkway,03 Marcy Plaza,23.65,140.92,8/1/2022,5/12/2022,2.6,61.58,cloudy,moderate,credit card,3,282,highway
+06/12/2025,9,21 Rockefeller Way,1708 Blue Bill Park Lane,49.8,97.78,2/25/2022,4/30/2022,3.7,83.52,cloudy,light,mobile payment,3,377,back roads
+06/12/2025,3,93 Canary Street,032 Northland Street,2.46,1.68,6/8/2022,5/6/2022,2.9,77.33,cloudy,light,mobile payment,1,202,city streets
+06/12/2025,5,44 Village Hill,6393 Walton Point,32.33,12.71,1/28/2022,4/11/2022,2.3,42.33,cloudy,heavy,mobile payment,4,407,city streets
+06/12/2025,8,364 Dayton Road,21162 Westend Drive,9.82,107.97,5/6/2022,7/23/2022,3.6,63.61,snowy,moderate,credit card,5,68,city streets
+06/12/2025,7,42167 Cascade Trail,1 Veith Drive,19.83,20.64,5/17/2022,6/25/2022,1.2,8.97,sunny,heavy,cash,2,190,highway
+06/12/2025,3,4 Stone Corner Center,668 Mendota Place,24.36,98.31,8/19/2022,7/17/2022,1.7,3.05,sunny,moderate,mobile payment,5,480,back roads
+06/12/2025,3,178 Havey Way,36 Dexter Trail,40.48,47.95,7/22/2022,3/14/2022,4.5,10.1,sunny,light,cash,3,519,back roads
+06/12/2025,5,57914 Grayhawk Point,80 Anthes Crossing,11.3,26.09,8/25/2022,7/6/2022,3.5,39.11,cloudy,heavy,cash,5,11,city streets
+06/12/2025,4,47 Saint Paul Drive,375 Morningstar Circle,44.85,4.9,3/24/2022,7/3/2022,1.9,23.58,sunny,moderate,credit card,2,109,back roads
+06/12/2025,6,0967 Lighthouse Bay Avenue,0728 Main Way,46.46,91.04,6/27/2022,7/9/2022,5.0,38.34,cloudy,light,mobile payment,2,279,highway
+06/12/2025,2,7 Waubesa Crossing,39 Hollow Ridge Circle,47.75,52.61,1/19/2022,9/27/2022,1.5,46.99,sunny,heavy,credit card,3,385,city streets
+06/12/2025,1,3 Vernon Court,8 Blue Bill Park Pass,12.4,134.58,1/23/2022,8/10/2022,3.5,62.87,sunny,moderate,cash,1,360,city streets
+06/12/2025,3,9311 Harbort Alley,580 Sloan Road,24.96,69.78,3/23/2022,1/24/2022,3.4,95.62,snowy,moderate,mobile payment,1,71,city streets
+06/12/2025,5,103 Buhler Street,670 Mcguire Circle,31.97,11.9,6/28/2022,5/4/2022,2.3,98.18,cloudy,heavy,credit card,5,198,back roads
+06/12/2025,6,803 Waxwing Drive,3 Sherman Point,4.49,131.39,3/28/2022,10/30/2022,1.8,17.31,sunny,heavy,cash,1,7,city streets
+06/12/2025,9,8295 Heath Park,184 Dennis Center,40.16,130.54,5/22/2022,3/3/2022,4.8,69.59,snowy,heavy,mobile payment,5,441,highway
+06/12/2025,5,8375 Schurz Park,6161 Melby Avenue,9.47,64.29,6/3/2022,3/15/2022,3.5,52.95,cloudy,light,credit card,5,266,highway
+06/12/2025,3,0 Derek Place,9 Badeau Crossing,30.98,75.38,6/20/2022,5/8/2022,3.7,22.62,snowy,light,credit card,2,288,highway
+06/12/2025,7,2 Stone Corner Center,0 Hoard Alley,40.4,133.23,4/2/2022,2/5/2022,4.1,81.79,snowy,moderate,mobile payment,3,201,city streets
+06/12/2025,3,28484 Clove Hill,9683 Helena Circle,25.67,15.96,2/16/2022,6/15/2022,1.1,82.38,sunny,moderate,cash,2,360,city streets
+06/12/2025,7,2190 Forest Dale Crossing,8 Fisk Drive,17.25,70.41,7/23/2022,8/12/2022,3.3,37.92,sunny,heavy,mobile payment,5,230,highway
+06/12/2025,2,0 Bartelt Center,32 Northfield Court,40.72,62.3,1/31/2022,1/11/2022,3.4,95.49,cloudy,heavy,cash,2,11,back roads
+06/12/2025,1,09529 Duke Circle,9 Hagan Center,25.51,123.69,5/15/2022,3/27/2022,1.3,19.62,snowy,moderate,cash,5,510,highway
+06/12/2025,6,35 Menomonie Center,18088 Corscot Drive,7.59,139.18,2/8/2022,6/8/2022,1.5,56.7,snowy,heavy,mobile payment,3,93,back roads
+06/12/2025,9,6559 Carioca Plaza,85902 Summit Park,32.18,46.96,1/23/2022,5/10/2022,2.6,23.75,sunny,heavy,mobile payment,5,289,highway
+06/12/2025,1,336 Hallows Way,2874 Redwing Park,2.62,64.06,6/20/2022,5/27/2022,4.7,58.98,cloudy,heavy,cash,1,114,back roads
+06/12/2025,8,759 Iowa Lane,16 Transport Avenue,7.11,4.02,4/1/2022,10/1/2022,2.5,84.39,sunny,moderate,cash,1,449,city streets
+06/12/2025,1,64810 Debs Point,6912 Straubel Crossing,23.99,45.22,5/18/2022,3/24/2022,3.5,79.54,sunny,moderate,credit card,4,590,back roads
+06/12/2025,6,3979 Bluejay Place,8 Pankratz Circle,21.79,66.21,2/3/2022,10/28/2022,2.9,83.4,cloudy,heavy,mobile payment,4,187,city streets
+06/12/2025,5,7 Mitchell Park,4973 Duke Park,11.97,17.91,7/2/2022,10/14/2022,2.0,13.67,cloudy,heavy,cash,4,262,back roads
+06/12/2025,6,65886 Talmadge Avenue,484 Dunning Point,4.39,144.15,9/1/2022,8/4/2022,4.1,23.58,sunny,light,mobile payment,3,545,back roads
+06/12/2025,5,40 Golf Court,15 West Trail,22.8,14.81,7/10/2022,10/8/2022,2.3,11.71,sunny,moderate,credit card,1,474,back roads
+06/12/2025,6,5404 Thompson Way,4282 Holy Cross Terrace,49.35,30.92,4/9/2022,7/7/2022,4.2,19.79,cloudy,heavy,cash,3,166,highway
+06/12/2025,8,394 Johnson Terrace,40112 Maryland Plaza,2.86,134.97,8/26/2022,3/11/2022,5.0,94.27,cloudy,heavy,credit card,1,471,city streets
+06/12/2025,8,9484 Texas Hill,868 Clarendon Plaza,23.32,111.78,5/18/2022,6/20/2022,4.1,98.21,snowy,heavy,credit card,2,484,city streets
+06/12/2025,4,48 La Follette Hill,126 Sauthoff Road,26.04,17.19,8/24/2022,6/24/2022,4.3,8.72,cloudy,light,credit card,5,421,back roads
+06/12/2025,9,5 Dunning Court,7387 Moulton Pass,46.89,120.9,5/29/2022,5/8/2022,2.2,70.88,sunny,moderate,mobile payment,5,335,city streets
+06/12/2025,3,4 Tony Center,752 Eagle Crest Parkway,41.21,11.14,7/29/2022,8/9/2022,1.4,19.15,cloudy,moderate,credit card,4,45,city streets
+06/12/2025,2,3265 Lindbergh Crossing,648 Maple Avenue,47.53,135.09,3/30/2022,2/28/2022,1.4,64.99,snowy,light,credit card,5,59,highway
+06/12/2025,5,8 East Plaza,2 Algoma Hill,1.35,20.47,1/9/2022,8/27/2022,1.2,22.41,snowy,heavy,mobile payment,3,524,back roads
+06/12/2025,8,749 Donald Alley,4 Cody Place,15.99,19.2,3/12/2022,8/25/2022,1.4,61.01,sunny,heavy,cash,1,25,back roads
+06/12/2025,2,6 Bellgrove Way,73 Aberg Avenue,32.5,133.16,8/16/2022,9/12/2022,1.0,58.97,cloudy,light,cash,3,142,city streets
+06/12/2025,2,131 Esker Trail,677 Sunbrook Pass,15.79,8.19,6/5/2022,7/31/2022,3.5,41.72,sunny,moderate,credit card,5,361,highway
+06/12/2025,3,766 Summerview Parkway,7 Randy Pass,1.3,64.17,5/30/2022,6/18/2022,1.0,36.43,cloudy,heavy,credit card,2,571,highway
+06/12/2025,1,65 West Way,6248 School Court,12.51,41.49,6/4/2022,4/18/2022,4.9,86.97,sunny,light,credit card,1,27,back roads
+06/12/2025,9,704 Hazelcrest Pass,1 Banding Lane,39.35,35.88,8/11/2022,10/17/2022,3.6,92.67,cloudy,moderate,credit card,3,1,city streets
+06/12/2025,9,35 Oxford Crossing,812 Corry Place,47.27,2.87,9/13/2022,8/5/2022,3.3,57.73,sunny,light,cash,2,86,highway
+06/12/2025,1,0056 Cordelia Avenue,7 American Ash Way,40.5,89.22,4/3/2022,10/22/2022,3.1,96.5,snowy,light,cash,2,101,back roads
+06/12/2025,5,5892 Riverside Avenue,36 Debs Court,36.13,89.99,9/1/2022,4/25/2022,1.9,42.15,cloudy,heavy,cash,5,345,city streets
+06/12/2025,5,2 Sherman Court,8 Delaware Point,34.72,139.45,6/17/2022,4/17/2022,4.3,66.68,snowy,moderate,mobile payment,2,247,highway
+06/12/2025,7,4143 Linden Place,12708 Riverside Drive,21.75,96.72,4/24/2022,1/22/2022,4.4,53.08,snowy,light,credit card,4,492,highway
+06/12/2025,9,346 Shelley Crossing,74 Rowland Parkway,11.38,65.98,3/6/2022,8/31/2022,4.2,41.74,cloudy,moderate,mobile payment,3,592,city streets
+06/12/2025,6,62 Johnson Terrace,1759 Charing Cross Pass,47.65,69.64,2/5/2022,9/23/2022,3.7,19.9,cloudy,heavy,credit card,4,314,back roads
+06/12/2025,9,1449 Upham Drive,8 Welch Parkway,24.2,122.83,7/18/2022,3/15/2022,1.6,35.3,cloudy,light,cash,3,145,back roads
+06/12/2025,4,2816 Maple Court,9366 Mandrake Drive,41.04,147.97,3/3/2022,3/5/2022,3.6,66.88,cloudy,moderate,credit card,2,86,highway
+06/12/2025,1,3213 Forest Run Avenue,18563 Hovde Avenue,43.5,49.67,1/5/2022,7/1/2022,4.8,61.6,sunny,moderate,mobile payment,1,223,highway
+06/12/2025,5,0 Warner Point,350 Colorado Lane,48.18,17.7,1/9/2022,2/23/2022,2.8,14.97,snowy,light,cash,1,7,city streets
+06/12/2025,6,04275 Corry Crossing,4707 Darwin Drive,43.11,90.36,6/29/2022,1/11/2022,3.7,7.58,snowy,light,mobile payment,1,582,back roads
+06/12/2025,6,6950 Menomonie Junction,042 Harbort Crossing,22.88,44.54,3/14/2022,8/13/2022,4.8,95.74,snowy,light,cash,5,481,city streets
+06/12/2025,1,85 Oriole Point,3 Packers Park,49.51,18.44,3/19/2022,6/1/2022,3.6,47.75,sunny,moderate,cash,4,341,city streets
+06/12/2025,2,36218 Mosinee Avenue,551 Summerview Place,22.05,91.37,1/3/2022,1/19/2022,2.6,60.81,snowy,heavy,credit card,1,140,city streets
+06/12/2025,3,1 Moose Circle,095 Russell Street,40.1,2.87,8/9/2022,7/11/2022,4.9,13.37,sunny,light,cash,4,557,city streets
+06/12/2025,1,58 Maple Way,73 Hazelcrest Street,27.99,89.28,3/7/2022,10/16/2022,2.5,60.05,sunny,heavy,credit card,3,418,highway
+06/12/2025,2,30698 Golf View Court,43 Claremont Junction,6.5,41.44,2/18/2022,8/8/2022,3.3,97.92,sunny,heavy,credit card,3,597,back roads
+06/12/2025,1,7 Lunder Terrace,5 Anderson Lane,31.93,91.1,6/10/2022,10/4/2022,2.3,87.27,cloudy,light,mobile payment,3,29,city streets
+06/12/2025,4,01 Sunnyside Crossing,36 Fulton Court,16.52,60.58,8/24/2022,9/23/2022,1.5,92.22,cloudy,heavy,mobile payment,3,69,highway
+06/12/2025,8,1588 Kinsman Avenue,259 Hintze Lane,10.9,41.19,7/14/2022,5/7/2022,1.9,61.78,snowy,light,credit card,1,238,highway
+06/12/2025,1,819 Hallows Junction,99989 Claremont Hill,19.24,74.03,2/10/2022,2/26/2022,2.9,73.21,sunny,heavy,cash,5,205,city streets
+06/12/2025,7,6914 Florence Avenue,85 Banding Plaza,46.13,91.1,3/25/2022,3/7/2022,2.5,79.19,sunny,moderate,credit card,4,260,back roads
+06/12/2025,1,612 Fallview Way,3 Green Circle,16.71,47.9,7/20/2022,10/25/2022,4.4,61.39,cloudy,moderate,mobile payment,4,292,back roads
+06/12/2025,2,74078 Monument Hill,17 Stephen Junction,13.82,102.31,1/15/2022,5/27/2022,3.8,12.1,snowy,moderate,credit card,2,522,city streets
+06/12/2025,7,68451 Coleman Terrace,0615 Springview Parkway,41.22,101.73,9/15/2022,5/16/2022,4.4,90.02,cloudy,light,cash,4,135,back roads
+06/12/2025,8,893 Novick Court,49422 Charing Cross Street,43.25,97.18,8/30/2022,3/24/2022,2.2,76.08,snowy,heavy,credit card,2,114,back roads
+06/12/2025,7,77517 Brentwood Parkway,808 Moland Place,0.21,110.71,7/10/2022,8/21/2022,1.4,20.28,sunny,heavy,cash,1,536,highway
+06/12/2025,3,3 American Place,12497 Aberg Terrace,33.29,111.58,2/22/2022,7/15/2022,4.7,34.66,sunny,heavy,credit card,5,450,highway
+06/12/2025,3,8 Annamark Alley,48199 Crownhardt Pass,47.96,84.36,5/16/2022,4/15/2022,1.1,12.75,snowy,moderate,cash,1,10,city streets
+06/12/2025,4,4302 Bluejay Plaza,008 Twin Pines Trail,13.98,64.1,5/31/2022,3/6/2022,2.9,23.79,sunny,moderate,credit card,3,193,highway
+06/12/2025,1,3812 Vahlen Plaza,27752 Valley Edge Avenue,24.06,82.7,4/10/2022,8/4/2022,2.6,78.14,cloudy,heavy,mobile payment,1,270,back roads
+06/12/2025,6,168 Forest Court,736 Washington Road,47.53,15.34,9/11/2022,1/31/2022,1.5,0.92,sunny,light,mobile payment,2,177,city streets
+06/12/2025,6,5 Transport Pass,4697 Mayer Center,11.09,141.97,4/24/2022,6/29/2022,3.5,90.98,cloudy,light,credit card,5,59,highway
+06/12/2025,3,1260 Arizona Place,95 Shasta Court,39.27,135.85,3/5/2022,2/22/2022,1.3,70.57,sunny,light,credit card,5,551,back roads
+06/12/2025,5,96690 Pennsylvania Circle,30 Talmadge Terrace,34.16,96.01,5/24/2022,4/16/2022,2.1,4.33,snowy,moderate,mobile payment,3,270,highway
+06/12/2025,9,14221 Oxford Park,774 Forster Drive,13.07,111.69,8/10/2022,10/13/2022,3.2,70.47,cloudy,moderate,cash,2,139,back roads
+06/12/2025,1,70 Rockefeller Hill,9080 Stephen Center,31.84,33.0,5/30/2022,7/12/2022,2.6,35.86,cloudy,light,mobile payment,3,363,back roads
+06/12/2025,5,9 Morrow Avenue,80 Jenifer Avenue,20.57,65.08,3/22/2022,8/11/2022,4.6,36.28,cloudy,heavy,mobile payment,3,233,city streets
+06/12/2025,7,94 Esch Crossing,5 Ridge Oak Avenue,13.88,79.84,1/31/2022,8/11/2022,3.6,19.6,sunny,heavy,cash,2,388,highway
+06/12/2025,1,83 Northwestern Place,4 Welch Road,38.49,80.03,2/16/2022,3/22/2022,3.7,59.3,snowy,moderate,cash,5,178,city streets
+06/12/2025,5,2303 Thierer Terrace,923 Crest Line Crossing,22.1,63.85,3/1/2022,4/23/2022,1.2,22.33,cloudy,moderate,credit card,2,159,highway
+06/12/2025,6,88 Spaight Way,2 Main Pass,12.96,34.22,6/1/2022,7/14/2022,4.2,73.98,sunny,moderate,mobile payment,2,372,city streets
+06/12/2025,6,23388 Knutson Pass,4 Hoffman Place,29.81,67.24,2/2/2022,1/30/2022,1.8,52.55,cloudy,light,cash,1,243,back roads
+06/12/2025,2,98 Dorton Place,9640 Morning Drive,43.81,0.21,6/22/2022,7/29/2022,1.2,42.07,cloudy,light,cash,2,245,highway
+06/12/2025,5,6809 Buhler Park,24 Eagle Crest Parkway,17.42,69.91,1/9/2022,8/21/2022,2.6,7.07,sunny,moderate,credit card,2,354,city streets
+06/12/2025,2,7 Duke Hill,51 Bobwhite Circle,34.8,67.05,1/2/2022,6/17/2022,3.8,68.48,snowy,moderate,cash,5,17,highway
+06/12/2025,4,33920 Magdeline Center,9244 Jana Parkway,38.31,14.42,4/9/2022,7/18/2022,3.6,11.36,sunny,moderate,credit card,4,177,back roads
+06/12/2025,9,396 Center Place,5 Hooker Point,25.47,63.09,7/19/2022,11/5/2022,4.7,57.78,cloudy,light,credit card,4,324,back roads
+06/12/2025,2,55 8th Street,720 Kenwood Trail,42.9,41.87,3/11/2022,1/29/2022,2.5,7.42,sunny,moderate,cash,4,10,highway
+06/12/2025,9,24 Corben Alley,6296 Bluestem Trail,47.72,55.32,6/4/2022,1/20/2022,3.8,44.71,cloudy,heavy,cash,3,320,city streets
+06/12/2025,2,097 Hayes Trail,741 Surrey Place,32.34,39.86,2/11/2022,7/9/2022,3.7,85.17,sunny,moderate,cash,2,588,city streets
+06/12/2025,4,5418 Grayhawk Terrace,50226 Arizona Place,34.17,20.82,3/31/2022,9/1/2022,3.7,88.59,sunny,light,cash,5,120,city streets
+06/12/2025,8,03729 Redwing Hill,96668 Corry Parkway,37.27,25.97,9/14/2022,4/26/2022,4.6,26.83,sunny,light,credit card,1,336,back roads
+06/12/2025,9,6203 Ruskin Pass,14 Glendale Trail,30.62,56.01,3/9/2022,3/26/2022,4.4,43.6,snowy,light,mobile payment,4,255,highway
+06/12/2025,8,22380 Delladonna Park,5469 Eliot Court,35.82,73.45,1/22/2022,7/27/2022,2.4,26.54,snowy,moderate,credit card,2,325,highway
+06/12/2025,6,5 Village Green Alley,7 Raven Road,48.81,97.08,7/24/2022,6/8/2022,1.7,70.88,sunny,moderate,credit card,4,382,highway
+06/12/2025,1,6 Bluestem Trail,7753 Drewry Alley,18.69,134.74,3/19/2022,7/7/2022,4.9,7.97,sunny,light,cash,1,497,back roads
+06/12/2025,6,86 Melrose Circle,77 Cardinal Center,2.21,120.23,5/18/2022,5/3/2022,1.7,59.55,snowy,light,credit card,4,145,back roads
+06/12/2025,2,38241 Sugar Court,27 Amoth Hill,36.36,112.43,4/6/2022,7/9/2022,1.7,71.8,snowy,light,cash,5,328,city streets
+06/12/2025,5,98904 Summer Ridge Plaza,0279 Ohio Circle,20.01,78.51,4/6/2022,4/6/2022,2.7,91.11,sunny,moderate,credit card,1,252,city streets
+06/12/2025,4,4924 Thompson Parkway,77 Bluestem Place,13.07,26.3,9/17/2022,2/23/2022,1.6,19.93,cloudy,light,credit card,1,266,highway
+06/12/2025,2,84100 Schiller Street,557 Knutson Avenue,31.54,76.71,5/27/2022,7/4/2022,1.8,0.39,sunny,light,mobile payment,1,124,highway
+06/12/2025,4,746 Fairview Park,7090 Bluejay Lane,12.86,37.73,6/12/2022,1/23/2022,4.4,56.95,cloudy,moderate,mobile payment,1,360,highway
+06/12/2025,7,41681 Hermina Circle,93 Lakewood Gardens Center,29.47,9.42,4/21/2022,7/14/2022,4.7,60.99,snowy,heavy,mobile payment,2,228,back roads
+06/12/2025,1,8 Comanche Pass,09469 Lakewood Alley,38.57,128.62,4/18/2022,1/9/2022,3.4,96.91,sunny,heavy,mobile payment,2,228,highway
+06/12/2025,5,434 Superior Center,4503 Vidon Court,23.3,62.67,1/7/2022,6/8/2022,2.8,70.68,cloudy,moderate,credit card,2,456,back roads
+06/12/2025,3,33879 Doe Crossing Park,0555 Brown Way,11.76,148.73,9/6/2022,11/4/2022,2.5,52.02,sunny,moderate,mobile payment,3,25,city streets
+06/12/2025,5,9 Darwin Point,035 Maple Wood Place,1.48,61.82,4/12/2022,9/7/2022,4.2,89.06,sunny,heavy,cash,4,256,city streets
+06/12/2025,8,2 Pennsylvania Junction,1 Colorado Park,12.02,145.05,3/3/2022,5/14/2022,4.8,17.6,sunny,heavy,mobile payment,3,545,highway
+06/12/2025,1,620 Loftsgordon Drive,721 Heffernan Plaza,30.59,48.77,1/5/2022,5/1/2022,3.2,23.05,sunny,moderate,mobile payment,5,256,city streets
+06/12/2025,3,6 Pierstorff Plaza,561 Sycamore Drive,18.65,18.31,5/2/2022,2/13/2022,3.3,10.58,sunny,light,cash,5,415,back roads
+06/12/2025,2,99 Sunbrook Terrace,81 Sullivan Plaza,24.27,69.94,8/17/2022,9/1/2022,1.5,65.14,snowy,light,credit card,5,157,city streets
+06/12/2025,5,485 Fairfield Pass,959 Golf Course Road,24.7,128.16,4/20/2022,9/30/2022,1.1,61.42,cloudy,heavy,credit card,3,561,back roads
+06/12/2025,5,9657 Hoard Way,2 Twin Pines Crossing,46.0,92.27,9/9/2022,8/23/2022,2.1,50.82,cloudy,light,cash,1,316,city streets
+06/12/2025,3,44357 Dixon Drive,07 Pond Place,6.29,56.61,7/7/2022,6/5/2022,2.1,22.72,cloudy,moderate,cash,3,60,city streets
+06/12/2025,8,25051 Mitchell Park,073 Vernon Center,31.41,43.64,7/31/2022,6/2/2022,4.6,31.6,snowy,light,credit card,5,410,highway
+06/12/2025,7,3 Tomscot Trail,7 Dixon Pass,6.41,132.19,8/22/2022,9/14/2022,4.5,60.79,cloudy,light,cash,2,379,back roads
+06/12/2025,4,4 Macpherson Plaza,8 Farmco Crossing,38.11,130.57,8/4/2022,5/20/2022,2.7,24.85,snowy,heavy,mobile payment,2,589,highway
+06/12/2025,3,63 Londonderry Hill,99488 Morningstar Place,0.64,39.65,6/22/2022,3/24/2022,4.4,76.85,snowy,light,credit card,5,545,back roads
+06/12/2025,7,264 Veith Lane,98417 Del Mar Way,42.58,11.76,6/27/2022,3/25/2022,2.8,70.78,sunny,heavy,mobile payment,3,403,highway
+06/12/2025,8,1023 American Pass,26 Spohn Street,35.41,49.61,1/30/2022,10/24/2022,1.3,46.66,cloudy,moderate,mobile payment,5,200,back roads
+06/12/2025,1,87032 Armistice Alley,47 Mccormick Point,10.03,146.93,2/14/2022,6/3/2022,3.0,27.04,snowy,heavy,credit card,4,503,highway
+06/12/2025,5,5638 International Junction,8 Havey Place,5.44,68.12,7/13/2022,9/4/2022,1.9,23.58,sunny,heavy,cash,3,585,highway
+06/12/2025,9,820 Mcguire Pass,65860 Morrow Place,43.75,136.55,9/7/2022,11/6/2022,2.2,24.04,snowy,light,mobile payment,2,587,highway
+06/12/2025,3,10813 Mallory Junction,8 Forest Dale Hill,8.86,91.33,5/22/2022,2/4/2022,1.3,84.17,sunny,heavy,cash,2,518,highway
+06/12/2025,5,66706 Longview Center,5 Clove Point,40.94,65.79,7/31/2022,4/9/2022,1.2,22.46,sunny,heavy,cash,2,482,highway
+06/12/2025,5,7097 West Alley,3166 Lotheville Court,38.23,38.67,4/27/2022,5/21/2022,1.0,92.1,snowy,moderate,credit card,2,405,city streets
+06/12/2025,6,2573 6th Road,77949 Muir Avenue,23.25,92.53,2/8/2022,9/12/2022,3.2,80.05,cloudy,moderate,cash,3,324,city streets
+06/12/2025,4,88343 Tennyson Parkway,632 Kenwood Park,11.58,102.86,2/17/2022,9/10/2022,4.7,68.27,sunny,light,credit card,3,33,city streets
+06/12/2025,9,3 Stang Plaza,13049 Browning Way,0.54,101.47,6/30/2022,8/11/2022,4.3,4.75,snowy,light,credit card,5,73,city streets
+06/12/2025,9,1 Parkside Crossing,6 Toban Terrace,40.96,133.46,7/26/2022,8/4/2022,1.5,32.64,snowy,heavy,cash,5,37,highway
+06/12/2025,1,697 Monument Terrace,7 Oxford Avenue,43.32,69.11,5/20/2022,7/15/2022,3.2,33.38,sunny,heavy,credit card,5,394,city streets
+06/12/2025,4,62 Morningstar Trail,71133 Derek Place,7.19,106.0,5/11/2022,10/3/2022,1.3,85.14,snowy,light,cash,4,156,back roads
+06/12/2025,6,668 Fulton Pass,53792 Randy Pass,29.09,126.61,5/20/2022,9/19/2022,3.8,6.18,snowy,light,mobile payment,5,0,highway
+06/12/2025,7,2782 Helena Plaza,20600 Blaine Circle,17.82,44.92,6/9/2022,10/8/2022,3.6,29.08,cloudy,moderate,credit card,5,215,city streets
+06/12/2025,6,3 Florence Circle,142 Spohn Pass,28.36,65.61,9/18/2022,10/18/2022,1.6,84.74,sunny,light,cash,3,257,city streets
+06/12/2025,6,9 Anzinger Parkway,78 Clarendon Place,40.81,135.86,1/14/2022,4/3/2022,4.6,83.47,snowy,heavy,cash,5,69,back roads
+06/12/2025,4,7 Harper Pass,3 Pond Center,19.72,90.31,5/10/2022,3/28/2022,3.5,91.14,sunny,moderate,cash,4,116,city streets
+06/12/2025,9,778 American Pass,705 Melby Way,29.65,123.06,6/22/2022,2/22/2022,2.4,98.75,snowy,heavy,mobile payment,3,550,back roads
+06/12/2025,5,44 Dapin Court,034 Westend Point,30.23,48.35,2/4/2022,6/27/2022,2.2,29.7,sunny,light,mobile payment,1,359,back roads
+06/12/2025,7,60 Arrowood Trail,25932 Truax Place,30.24,140.41,4/18/2022,6/8/2022,1.5,70.12,cloudy,light,mobile payment,1,439,city streets
+06/12/2025,7,07 Northridge Road,12565 International Place,35.54,104.57,8/14/2022,9/11/2022,2.3,66.99,cloudy,heavy,cash,3,556,city streets
+06/12/2025,2,139 Lerdahl Park,59 Del Mar Place,5.5,73.07,8/12/2022,3/21/2022,1.5,27.6,cloudy,moderate,cash,3,201,highway
+06/12/2025,4,77 Ryan Drive,1553 Acker Drive,8.18,138.62,7/25/2022,4/29/2022,2.4,77.3,sunny,light,mobile payment,1,352,highway
+06/12/2025,6,1023 Morning Alley,80 Sycamore Place,42.06,108.56,4/8/2022,2/9/2022,3.1,66.5,snowy,light,mobile payment,2,14,back roads
+06/12/2025,7,899 Lake View Avenue,37 Redwing Crossing,37.59,111.33,2/26/2022,8/4/2022,3.5,37.05,sunny,moderate,mobile payment,5,325,back roads
+06/12/2025,8,98 Cody Avenue,0 Dwight Terrace,38.74,51.55,1/20/2022,10/11/2022,4.9,53.18,cloudy,light,mobile payment,1,289,back roads
+06/12/2025,6,89 Grasskamp Parkway,658 Linden Avenue,12.13,79.17,4/4/2022,9/13/2022,3.1,70.16,cloudy,heavy,mobile payment,2,588,back roads
+06/12/2025,5,550 Golf View Place,72416 Oxford Point,15.29,66.32,2/21/2022,5/28/2022,3.7,69.89,snowy,heavy,mobile payment,3,191,highway
+06/12/2025,4,13309 Shopko Point,809 Tomscot Drive,20.46,68.95,7/3/2022,5/7/2022,4.5,92.74,snowy,heavy,credit card,4,482,highway
+06/12/2025,6,88487 Talmadge Street,73855 Ruskin Hill,32.64,72.69,9/6/2022,5/20/2022,3.7,91.35,cloudy,light,mobile payment,2,258,back roads
+06/12/2025,5,2142 Corben Terrace,37 Havey Terrace,36.24,5.89,3/18/2022,4/29/2022,5.0,16.49,cloudy,heavy,mobile payment,5,124,back roads
+06/12/2025,3,2214 Eastlawn Pass,11 Holmberg Point,34.61,139.94,2/28/2022,10/18/2022,2.7,22.46,cloudy,heavy,credit card,4,590,back roads
+06/12/2025,2,7 Thierer Way,35674 Fieldstone Junction,40.99,103.22,5/9/2022,5/12/2022,1.1,54.96,snowy,heavy,credit card,3,27,back roads
+06/12/2025,5,4 Stuart Circle,9 Golden Leaf Parkway,47.33,9.81,2/1/2022,9/30/2022,4.4,28.71,cloudy,moderate,mobile payment,1,433,back roads
+06/12/2025,7,383 Merchant Court,931 La Follette Plaza,25.17,10.21,4/6/2022,1/27/2022,4.3,16.91,cloudy,heavy,credit card,2,544,highway
+06/12/2025,5,8 Mariners Cove Park,8184 Forest Street,38.12,130.52,9/7/2022,6/29/2022,2.3,25.45,cloudy,light,credit card,3,221,highway
+06/12/2025,1,54211 Colorado Junction,73 3rd Center,2.51,66.88,8/30/2022,2/14/2022,2.7,3.45,sunny,light,cash,1,303,city streets
+06/12/2025,9,54 Muir Road,34 Shoshone Alley,41.58,10.29,6/6/2022,6/29/2022,4.5,64.81,sunny,heavy,credit card,1,27,city streets
+06/12/2025,6,10 Vidon Point,5 Shasta Crossing,36.4,32.03,1/3/2022,5/22/2022,1.5,71.0,snowy,light,credit card,4,151,back roads
+06/12/2025,1,6 Elgar Pass,440 Vahlen Crossing,18.12,120.98,4/13/2022,5/11/2022,3.4,59.52,sunny,light,credit card,2,413,back roads
+06/12/2025,9,352 Bunting Crossing,65729 Westridge Plaza,8.07,65.75,8/26/2022,6/14/2022,1.8,89.45,sunny,light,cash,4,386,highway
+06/12/2025,7,0734 Oak Circle,84 Elka Road,42.8,108.58,7/11/2022,6/15/2022,3.9,41.42,snowy,heavy,cash,5,567,back roads
+06/12/2025,2,6267 Esker Pass,480 Comanche Center,25.76,38.62,6/22/2022,8/7/2022,1.1,84.83,snowy,light,credit card,2,36,back roads
+06/12/2025,9,8119 Cordelia Terrace,37215 Division Lane,23.7,9.46,1/15/2022,7/14/2022,3.8,88.31,cloudy,light,mobile payment,1,162,highway
+06/12/2025,5,962 Arkansas Junction,395 Ridge Oak Parkway,37.66,122.86,3/23/2022,6/30/2022,4.5,26.64,sunny,heavy,cash,3,124,back roads
+06/12/2025,5,8 Maple Wood Trail,482 Vermont Crossing,7.11,47.05,2/27/2022,7/21/2022,2.4,41.03,cloudy,moderate,credit card,5,120,city streets
+06/12/2025,2,8980 Eagle Crest Trail,79 Cascade Road,27.23,27.76,4/26/2022,9/13/2022,1.0,76.3,sunny,moderate,cash,5,123,back roads
+06/12/2025,2,3201 Anniversary Pass,790 Northfield Place,2.11,127.35,4/6/2022,6/14/2022,2.4,22.1,cloudy,heavy,cash,5,549,city streets
+06/12/2025,1,419 Shelley Alley,205 Saint Paul Center,27.35,35.71,7/17/2022,10/5/2022,4.6,56.81,snowy,heavy,cash,4,326,back roads
+06/12/2025,3,9130 Bunker Hill Circle,2 Valley Edge Avenue,48.01,105.45,9/13/2022,1/6/2022,4.3,99.66,sunny,heavy,credit card,2,432,city streets
+06/12/2025,9,42625 Granby Crossing,3 Washington Plaza,20.15,145.06,7/14/2022,9/3/2022,4.6,92.02,sunny,light,mobile payment,1,382,back roads
+06/12/2025,1,12452 Green Junction,053 Fair Oaks Circle,47.95,67.76,7/21/2022,10/17/2022,1.8,52.96,sunny,moderate,mobile payment,5,126,city streets
+06/12/2025,4,2585 Loftsgordon Circle,19 Hoffman Alley,11.14,134.09,2/6/2022,8/15/2022,3.7,3.74,snowy,moderate,mobile payment,3,307,highway
+06/12/2025,7,66 Gina Circle,852 Cambridge Park,38.3,107.16,4/15/2022,5/28/2022,4.2,27.17,cloudy,moderate,cash,3,375,highway
+06/12/2025,2,76562 Springview Plaza,0 Sachs Place,8.92,33.68,6/3/2022,8/14/2022,1.2,14.6,cloudy,heavy,mobile payment,3,74,highway
+06/12/2025,9,4454 Almo Drive,5901 Huxley Drive,21.63,130.2,2/3/2022,3/25/2022,3.1,74.59,sunny,light,cash,1,161,highway
+06/12/2025,5,533 Del Sol Alley,2896 Weeping Birch Circle,33.39,110.89,5/3/2022,3/21/2022,3.1,92.3,sunny,heavy,mobile payment,4,247,city streets
+06/12/2025,7,5 Meadow Ridge Plaza,662 Forest Run Plaza,17.48,79.82,3/22/2022,3/19/2022,2.6,71.62,cloudy,heavy,credit card,2,129,city streets
+06/12/2025,3,4416 Buell Crossing,87229 Holmberg Crossing,31.53,144.64,4/11/2022,6/10/2022,3.6,23.57,snowy,light,cash,2,589,city streets
+06/12/2025,9,0 Northwestern Court,8 Buena Vista Street,16.06,61.43,6/25/2022,9/30/2022,2.9,26.92,cloudy,light,credit card,4,267,city streets
+06/12/2025,5,7454 Pleasure Trail,772 Mockingbird Terrace,16.69,63.2,6/30/2022,9/6/2022,1.3,65.7,sunny,heavy,mobile payment,4,473,back roads
+06/12/2025,6,2 Forster Alley,686 Stang Street,34.3,24.99,4/6/2022,1/9/2022,3.5,79.81,snowy,moderate,mobile payment,3,257,city streets
+06/12/2025,8,48 Kensington Hill,56 Clemons Street,32.79,69.08,6/27/2022,4/6/2022,2.2,11.34,sunny,heavy,mobile payment,1,598,back roads
+06/12/2025,9,0 Darwin Lane,635 Twin Pines Alley,41.39,77.95,9/18/2022,6/26/2022,2.3,1.35,sunny,moderate,mobile payment,1,48,back roads
+06/12/2025,4,58085 Butternut Center,0 Hoepker Point,6.19,122.53,3/9/2022,10/12/2022,1.9,38.37,snowy,light,cash,5,82,back roads
+06/12/2025,4,32 Dovetail Plaza,4015 Canary Plaza,30.42,61.47,9/11/2022,3/7/2022,2.3,98.61,cloudy,moderate,cash,5,103,highway
+06/12/2025,7,3392 Duke Terrace,33 Anniversary Hill,11.17,84.75,1/22/2022,2/6/2022,4.3,57.63,cloudy,moderate,cash,2,353,back roads
+06/12/2025,8,7 Acker Junction,192 Gina Plaza,11.38,130.89,4/24/2022,6/7/2022,3.4,91.07,cloudy,moderate,credit card,4,139,back roads
+06/12/2025,5,94 Briar Crest Crossing,8339 Holy Cross Parkway,34.56,114.0,4/26/2022,10/29/2022,1.2,69.36,cloudy,heavy,credit card,1,461,back roads
+06/12/2025,7,28942 Crownhardt Point,287 Continental Drive,8.01,8.62,5/26/2022,8/25/2022,1.1,40.4,cloudy,moderate,cash,3,174,city streets
+06/12/2025,3,92 Pleasure Park,325 Bayside Parkway,11.27,127.74,4/29/2022,7/12/2022,3.3,60.38,sunny,heavy,mobile payment,3,592,back roads
+06/12/2025,7,894 Calypso Park,915 Summerview Park,47.01,136.34,3/31/2022,5/31/2022,1.4,25.01,snowy,heavy,cash,2,472,back roads
+06/12/2025,5,181 Huxley Crossing,6 Arrowood Street,25.86,105.05,1/31/2022,8/22/2022,4.0,58.41,cloudy,heavy,cash,3,588,city streets
+06/12/2025,6,93 Lerdahl Park,36775 Kinsman Hill,20.85,13.95,6/9/2022,10/27/2022,3.4,84.02,cloudy,moderate,credit card,2,332,city streets
+06/12/2025,5,42919 Johnson Junction,97185 Killdeer Court,40.62,8.83,4/5/2022,2/23/2022,4.5,65.34,sunny,moderate,cash,3,261,highway
+06/12/2025,4,5885 Little Fleur Drive,82251 American Plaza,0.54,82.78,8/12/2022,3/14/2022,3.6,85.69,sunny,moderate,cash,2,260,back roads
+06/12/2025,2,384 Ilene Court,6768 Eagle Crest Court,38.09,122.73,3/24/2022,7/14/2022,4.7,86.09,snowy,moderate,mobile payment,3,257,highway
+06/12/2025,3,4 Emmet Junction,690 Express Hill,22.51,43.84,9/4/2022,1/21/2022,2.8,43.99,sunny,light,credit card,5,284,back roads
+06/12/2025,2,8196 Kinsman Parkway,4 5th Street,22.15,141.93,1/28/2022,10/12/2022,2.9,2.37,sunny,light,credit card,2,133,highway
+06/12/2025,6,49080 3rd Plaza,143 Fieldstone Crossing,20.97,109.82,8/17/2022,2/11/2022,2.2,12.86,snowy,heavy,credit card,3,55,city streets
+06/12/2025,4,6 Mcbride Drive,91 Toban Point,2.88,76.94,7/9/2022,10/5/2022,2.5,47.8,cloudy,moderate,cash,4,206,highway
+06/12/2025,1,0174 Cambridge Way,51 Montana Center,41.15,149.5,7/3/2022,11/5/2022,2.7,65.52,sunny,light,cash,1,58,back roads
+06/12/2025,8,9933 Burrows Terrace,3650 Shoshone Trail,8.62,128.1,6/1/2022,2/24/2022,1.6,40.54,cloudy,light,credit card,3,594,back roads
+06/12/2025,5,3 Bashford Drive,7 Cherokee Trail,35.32,11.15,2/16/2022,8/26/2022,1.7,16.31,sunny,heavy,cash,2,144,back roads
+06/12/2025,4,9 Coleman Lane,27 Mayfield Terrace,10.74,83.11,8/17/2022,2/20/2022,3.6,85.44,sunny,light,credit card,2,112,back roads
+06/12/2025,9,09430 Rigney Lane,4 Packers Pass,5.07,64.51,1/18/2022,3/7/2022,4.6,73.66,cloudy,heavy,credit card,1,561,back roads
+06/12/2025,4,3397 Heath Crossing,906 Glacier Hill Court,9.1,52.0,5/10/2022,8/27/2022,4.6,26.53,sunny,light,cash,5,118,city streets
+06/12/2025,1,112 Manufacturers Court,0112 Melby Street,27.45,149.07,4/12/2022,2/2/2022,2.4,14.2,cloudy,light,cash,1,114,back roads
+06/12/2025,7,8148 Parkside Center,089 Novick Hill,38.15,120.06,3/29/2022,4/29/2022,1.7,4.39,sunny,moderate,mobile payment,5,550,highway
+06/12/2025,8,95 6th Alley,503 Hovde Drive,8.37,149.37,4/10/2022,9/20/2022,1.0,41.89,cloudy,heavy,cash,4,418,back roads
+06/12/2025,2,6746 Service Drive,8781 Esch Avenue,35.78,59.19,3/11/2022,1/8/2022,1.7,31.44,snowy,moderate,credit card,2,244,highway
+06/12/2025,4,867 Pennsylvania Plaza,858 Dottie Court,20.31,20.02,1/23/2022,8/28/2022,2.0,90.22,cloudy,moderate,mobile payment,4,387,city streets
+06/12/2025,3,136 Waywood Lane,22193 Eastwood Point,35.14,5.29,3/22/2022,1/21/2022,2.8,88.25,snowy,heavy,cash,3,240,city streets
+06/12/2025,7,8074 Melrose Terrace,78 Ronald Regan Hill,6.52,106.27,5/9/2022,5/23/2022,1.2,44.19,sunny,heavy,cash,4,240,highway
+06/12/2025,6,67767 Bartillon Park,4073 Morrow Drive,16.31,25.48,6/11/2022,1/21/2022,1.9,70.39,snowy,heavy,credit card,2,232,back roads
+06/12/2025,8,4 Coolidge Road,77040 Cherokee Park,32.22,33.32,2/23/2022,3/24/2022,3.4,23.45,snowy,heavy,credit card,1,133,highway
+06/12/2025,5,08684 Ludington Trail,625 3rd Park,36.79,149.44,5/28/2022,9/9/2022,3.6,49.12,cloudy,moderate,credit card,5,136,highway
+06/12/2025,1,35880 Muir Terrace,34 Kipling Crossing,7.32,125.03,8/7/2022,2/25/2022,2.4,51.43,snowy,light,credit card,3,252,city streets
+06/12/2025,9,1 Darwin Circle,3084 Stang Place,2.77,140.1,2/13/2022,4/30/2022,1.5,8.52,snowy,moderate,mobile payment,2,371,back roads
+06/12/2025,2,0146 Evergreen Center,57104 Saint Paul Circle,34.51,35.76,8/10/2022,2/4/2022,1.2,7.32,cloudy,light,cash,3,406,back roads
+06/12/2025,6,7598 Butternut Street,5 Redwing Drive,26.65,60.39,9/3/2022,4/25/2022,3.4,6.95,cloudy,moderate,credit card,3,149,back roads
+06/12/2025,6,1 Mallory Pass,17 Jenifer Plaza,32.24,60.34,7/14/2022,1/13/2022,4.6,7.61,sunny,moderate,mobile payment,2,7,highway
+06/12/2025,7,606 Hauk Park,8574 Longview Drive,20.3,11.05,6/11/2022,8/4/2022,4.9,40.85,snowy,heavy,mobile payment,2,521,back roads
+06/12/2025,3,06759 Roxbury Drive,64 Thierer Terrace,14.57,61.02,6/6/2022,1/24/2022,3.8,10.95,sunny,moderate,mobile payment,4,242,highway
+06/12/2025,9,1791 Evergreen Drive,5961 Vidon Circle,38.81,105.04,5/25/2022,7/28/2022,1.9,1.64,snowy,moderate,credit card,5,535,back roads
+06/12/2025,2,5 3rd Trail,6199 Graedel Circle,15.16,15.49,9/1/2022,10/27/2022,3.0,7.95,snowy,heavy,credit card,5,110,city streets
+06/12/2025,9,378 Sloan Drive,54 Jay Lane,45.15,54.07,9/11/2022,4/17/2022,3.6,10.65,cloudy,heavy,cash,1,349,highway
+06/12/2025,9,00613 Warrior Park,4 Butterfield Court,9.51,12.14,6/15/2022,5/28/2022,4.5,68.08,sunny,moderate,cash,1,448,city streets
+06/12/2025,4,1345 Sunfield Way,42 Lakewood Gardens Terrace,31.92,129.86,1/11/2022,4/5/2022,4.5,26.99,snowy,moderate,mobile payment,3,268,back roads
+06/12/2025,5,1 Browning Hill,026 Commercial Street,44.59,134.64,6/23/2022,8/3/2022,2.9,2.86,sunny,heavy,cash,4,386,highway
+06/12/2025,7,0545 Marcy Drive,35223 Texas Pass,21.24,34.47,1/7/2022,2/5/2022,2.8,21.64,snowy,moderate,credit card,3,186,back roads
+06/12/2025,7,5725 Milwaukee Parkway,0 Grayhawk Hill,47.76,112.76,5/7/2022,8/26/2022,3.9,26.75,sunny,moderate,credit card,1,427,city streets
+06/12/2025,6,65 Esker Court,7 Annamark Junction,40.8,139.47,3/29/2022,4/22/2022,3.6,11.73,snowy,moderate,credit card,3,330,back roads
+06/12/2025,4,05 Starling Pass,36812 Eagle Crest Center,9.43,64.92,3/19/2022,4/9/2022,2.6,88.76,sunny,heavy,mobile payment,5,150,highway
+06/12/2025,1,6704 Maple Wood Point,8 Columbus Center,24.24,112.35,3/30/2022,4/1/2022,3.6,35.27,snowy,moderate,cash,2,149,back roads
+06/12/2025,5,77417 Merry Place,910 Stoughton Junction,23.74,1.15,1/19/2022,6/8/2022,4.8,74.27,sunny,moderate,mobile payment,5,236,city streets
+06/12/2025,5,2 Lakewood Gardens Circle,51489 Shasta Road,3.46,35.86,4/6/2022,9/4/2022,4.2,99.63,sunny,heavy,cash,2,291,back roads
+06/12/2025,7,2 Cottonwood Junction,5 Lyons Circle,6.08,30.16,1/20/2022,5/15/2022,2.6,10.91,snowy,moderate,mobile payment,4,271,city streets
+06/12/2025,4,3971 Sullivan Terrace,35 Utah Crossing,12.56,54.07,3/3/2022,1/19/2022,4.6,73.46,sunny,moderate,mobile payment,1,158,highway
+06/12/2025,6,763 Corben Place,2369 Acker Road,46.37,46.07,4/12/2022,11/2/2022,3.7,46.7,cloudy,light,credit card,1,200,highway
+06/12/2025,6,7 Hazelcrest Terrace,1 Elgar Pass,46.99,124.92,6/19/2022,3/12/2022,1.6,78.62,cloudy,light,mobile payment,5,568,highway
+06/12/2025,7,70102 Graceland Circle,6 Namekagon Circle,41.81,64.25,3/14/2022,3/11/2022,2.4,27.87,sunny,light,mobile payment,5,198,city streets
+06/12/2025,8,2 Hollow Ridge Crossing,5 Service Trail,49.91,101.98,4/13/2022,7/6/2022,3.4,91.02,snowy,light,cash,2,80,city streets
+06/12/2025,7,78863 Holmberg Way,738 Bunting Alley,37.61,32.91,6/19/2022,10/8/2022,4.4,45.51,sunny,heavy,credit card,5,392,city streets
+06/12/2025,5,9 Redwing Hill,6 Scott Junction,37.08,126.19,1/19/2022,8/24/2022,4.7,20.92,cloudy,light,mobile payment,4,38,city streets
+06/12/2025,3,418 Westport Junction,7 Hoffman Trail,12.89,100.07,8/13/2022,8/21/2022,4.1,35.74,snowy,light,cash,2,461,back roads
+06/12/2025,5,6 Shelley Lane,53 Lawn Pass,22.4,16.25,6/29/2022,4/20/2022,4.1,91.23,cloudy,light,credit card,1,137,highway
+06/12/2025,8,8654 Burning Wood Road,902 Welch Lane,30.73,60.62,8/3/2022,9/6/2022,3.4,91.03,cloudy,moderate,cash,4,382,highway
+06/12/2025,6,303 Bartillon Circle,9478 Esch Way,10.56,136.28,4/4/2022,8/15/2022,2.3,25.97,snowy,light,cash,4,477,city streets
+06/12/2025,2,5788 Vera Hill,69 Dayton Pass,14.91,63.07,3/29/2022,1/22/2022,3.1,27.97,cloudy,moderate,cash,3,5,city streets
+06/12/2025,5,8 Bayside Way,818 Truax Parkway,24.8,124.96,2/3/2022,10/14/2022,1.6,38.64,cloudy,light,credit card,5,384,city streets
+06/12/2025,1,98 Talisman Road,350 Londonderry Street,31.04,85.25,2/22/2022,10/28/2022,2.7,85.86,snowy,light,credit card,4,32,highway
+06/12/2025,8,2687 7th Alley,88 Karstens Park,38.85,15.15,4/9/2022,7/21/2022,2.3,95.32,snowy,moderate,mobile payment,1,379,highway
+06/12/2025,6,3 Clemons Alley,9769 Dayton Way,39.09,24.19,3/13/2022,8/2/2022,3.0,46.72,sunny,heavy,credit card,3,371,city streets
+06/12/2025,6,3210 Hoepker Center,17 Knutson Parkway,11.03,92.11,7/4/2022,7/5/2022,4.3,0.48,sunny,light,credit card,5,299,back roads
+06/12/2025,4,682 Melody Plaza,9226 Oak Valley Street,27.03,115.77,3/9/2022,7/29/2022,4.7,48.8,sunny,heavy,cash,2,542,city streets
+06/12/2025,7,3 Green Ridge Trail,0256 Lake View Hill,7.08,24.72,8/22/2022,1/11/2022,1.4,85.49,snowy,moderate,mobile payment,4,302,city streets
+06/12/2025,8,691 Farmco Lane,2273 Cody Park,3.29,51.01,1/28/2022,6/10/2022,5.0,71.11,snowy,moderate,mobile payment,4,142,highway
+06/12/2025,7,4 Jackson Pass,32 Dryden Pass,40.1,33.19,5/10/2022,1/16/2022,2.4,61.94,cloudy,heavy,credit card,5,372,highway
+06/12/2025,5,17988 Lerdahl Crossing,7 Garrison Lane,49.23,37.21,3/17/2022,7/15/2022,2.5,68.75,snowy,heavy,cash,3,557,back roads
+06/12/2025,6,84834 Gateway Court,694 Moulton Way,5.64,136.59,7/11/2022,7/15/2022,2.8,19.38,cloudy,moderate,mobile payment,4,583,city streets
+06/12/2025,9,77 Doe Crossing Court,51507 Logan Lane,17.81,53.08,8/21/2022,10/7/2022,3.5,26.55,cloudy,heavy,mobile payment,3,543,back roads
+06/12/2025,3,2 Spohn Way,61 Florence Center,26.16,101.77,7/4/2022,6/25/2022,4.9,25.12,snowy,moderate,cash,1,511,back roads
+06/12/2025,6,574 Blackbird Crossing,46 Luster Center,46.84,81.89,2/14/2022,6/15/2022,1.3,15.5,snowy,heavy,cash,4,412,city streets
+06/12/2025,9,61435 Vernon Trail,06781 Sutteridge Drive,13.04,81.53,6/20/2022,8/20/2022,2.9,25.51,snowy,heavy,mobile payment,3,535,back roads
+06/12/2025,9,807 Schmedeman Park,00440 Clarendon Point,9.03,130.72,3/14/2022,2/28/2022,2.2,38.71,cloudy,heavy,mobile payment,4,353,highway
+06/12/2025,7,93187 Warrior Circle,8 Manitowish Park,31.96,87.17,9/9/2022,2/24/2022,1.3,77.31,sunny,moderate,cash,1,541,highway
+06/12/2025,3,9 Jana Place,10 Fieldstone Road,27.18,48.41,7/24/2022,7/6/2022,2.7,35.68,snowy,heavy,mobile payment,3,174,highway
+06/12/2025,8,821 Oneill Court,5349 Moland Court,19.24,138.83,6/23/2022,10/30/2022,1.3,79.54,cloudy,heavy,credit card,3,173,highway
+06/12/2025,7,650 Vera Center,93 Shelley Plaza,41.6,46.32,6/27/2022,4/12/2022,2.2,29.0,cloudy,light,cash,5,18,back roads
+06/12/2025,3,228 Bellgrove Hill,96388 North Court,5.53,121.14,9/3/2022,1/30/2022,1.1,8.25,sunny,light,credit card,2,105,highway
+06/12/2025,6,895 Springview Circle,82000 Dorton Drive,3.42,83.86,3/31/2022,4/19/2022,2.7,2.17,cloudy,light,cash,1,250,highway
+06/12/2025,6,512 Pankratz Point,72 Welch Court,31.93,79.09,7/17/2022,2/19/2022,4.9,25.01,cloudy,light,mobile payment,5,559,highway
+06/12/2025,7,45 Scoville Street,62 Jana Trail,43.92,65.49,8/10/2022,2/7/2022,4.4,93.11,cloudy,moderate,mobile payment,5,110,highway
+06/12/2025,4,04982 Wayridge Way,7 Mcguire Court,43.61,93.78,4/26/2022,7/26/2022,2.6,53.11,sunny,moderate,mobile payment,2,187,back roads
+06/12/2025,5,5351 Hintze Parkway,679 Rutledge Road,17.8,96.02,5/4/2022,6/29/2022,3.2,13.91,snowy,light,cash,5,355,city streets
+06/12/2025,7,60171 Forest Run Road,2 Oak Valley Crossing,42.25,36.54,6/12/2022,2/15/2022,2.7,21.44,snowy,light,mobile payment,3,163,highway
+06/12/2025,7,83365 Old Gate Alley,764 Shoshone Plaza,46.46,88.33,5/26/2022,2/8/2022,3.6,55.87,sunny,light,cash,1,369,highway
+06/12/2025,1,3176 Dahle Point,1599 Basil Circle,49.81,1.09,2/17/2022,2/19/2022,1.8,59.42,cloudy,moderate,cash,3,260,city streets
+06/12/2025,4,102 Autumn Leaf Crossing,670 Tony Pass,24.51,131.02,4/5/2022,5/7/2022,2.7,91.56,sunny,moderate,credit card,2,477,highway
+06/12/2025,2,4 Maywood Way,25003 Parkside Plaza,2.78,31.17,8/27/2022,5/13/2022,3.3,95.91,sunny,light,mobile payment,2,491,city streets
+06/12/2025,9,09152 Sheridan Parkway,1441 Eagan Parkway,47.81,141.89,5/14/2022,3/14/2022,1.6,17.88,cloudy,heavy,mobile payment,3,413,highway
+06/12/2025,9,9453 Hauk Trail,912 Hermina Road,6.85,46.79,8/9/2022,9/15/2022,3.4,52.56,sunny,moderate,credit card,5,133,back roads
+06/12/2025,4,5464 Barby Place,6 Dahle Junction,49.39,84.09,8/16/2022,10/5/2022,2.6,79.43,sunny,heavy,mobile payment,3,94,highway
+06/12/2025,1,8125 Kennedy Parkway,0 American Ash Street,16.29,143.64,9/15/2022,7/8/2022,1.8,33.97,cloudy,light,credit card,3,415,highway
+06/12/2025,1,7606 Graedel Hill,5 Schlimgen Trail,41.3,71.85,2/24/2022,4/18/2022,3.5,83.01,cloudy,light,credit card,4,199,city streets
+06/12/2025,3,14 Barnett Court,0 Stoughton Pass,25.27,49.43,8/30/2022,5/29/2022,2.0,46.94,snowy,light,credit card,1,354,back roads
+06/12/2025,9,224 Beilfuss Court,3690 Schurz Park,33.2,123.66,2/4/2022,9/1/2022,1.2,66.17,cloudy,light,credit card,4,589,city streets
+06/12/2025,8,8061 Thackeray Junction,2788 Johnson Street,41.59,44.82,8/3/2022,8/29/2022,3.2,26.28,cloudy,light,credit card,4,196,highway
+06/12/2025,6,3022 Rowland Point,4 Kensington Trail,36.62,99.37,3/9/2022,5/25/2022,2.9,77.55,snowy,light,credit card,2,73,city streets
+06/12/2025,3,50 Ridgeview Alley,348 Rockefeller Hill,38.05,88.07,6/10/2022,6/20/2022,3.3,60.05,sunny,moderate,credit card,2,160,back roads
+06/12/2025,8,4 Heath Lane,91 Moulton Terrace,47.58,126.19,7/7/2022,1/22/2022,4.4,78.45,snowy,heavy,cash,2,306,highway
+06/12/2025,1,05111 Rowland Trail,2741 Kedzie Circle,10.75,42.24,8/4/2022,5/10/2022,2.6,73.95,sunny,light,credit card,2,280,city streets
+06/12/2025,1,0 Crowley Place,44553 Fallview Pass,3.54,36.08,2/17/2022,4/2/2022,4.6,40.21,sunny,heavy,mobile payment,1,445,highway
+06/12/2025,7,2611 Autumn Leaf Street,91 Vidon Avenue,49.93,141.85,3/17/2022,10/25/2022,1.0,58.25,sunny,light,cash,1,435,back roads
+06/12/2025,7,47229 Welch Point,29 Continental Parkway,37.15,3.45,1/30/2022,10/11/2022,2.2,14.79,cloudy,light,mobile payment,4,303,city streets
+06/12/2025,8,186 Ridgeview Crossing,07 Arkansas Plaza,5.01,72.72,2/23/2022,8/14/2022,2.5,71.05,cloudy,light,mobile payment,2,102,highway
+06/12/2025,2,7914 Bunker Hill Pass,74 Pleasure Road,32.09,50.23,8/31/2022,7/5/2022,4.6,73.03,snowy,heavy,credit card,1,333,city streets
+06/12/2025,3,173 Bonner Way,2241 Scott Lane,13.65,71.2,3/1/2022,1/23/2022,4.2,10.17,cloudy,heavy,mobile payment,5,584,back roads
+06/12/2025,7,7 Bellgrove Court,6345 Nancy Terrace,13.47,133.55,4/1/2022,3/4/2022,3.7,92.76,snowy,light,mobile payment,1,559,highway
+06/12/2025,3,1 Pond Street,64 Stoughton Pass,13.09,126.26,8/16/2022,4/1/2022,4.8,11.59,snowy,light,credit card,4,161,city streets
+06/12/2025,9,21422 Schurz Circle,3 Fallview Junction,18.4,66.39,1/24/2022,9/18/2022,1.2,18.95,sunny,light,mobile payment,4,485,city streets
+06/12/2025,6,327 Dawn Hill,4238 Bashford Pass,5.15,51.36,9/18/2022,4/2/2022,3.9,47.97,sunny,heavy,mobile payment,5,160,back roads
+06/12/2025,9,7 Dorton Junction,4 Lindbergh Drive,13.62,70.08,6/28/2022,11/3/2022,1.6,45.75,sunny,light,credit card,2,314,back roads
+06/12/2025,5,97 Alpine Court,6 Carey Park,6.3,139.79,5/31/2022,7/3/2022,2.0,17.92,snowy,light,mobile payment,2,42,city streets
+06/12/2025,2,4 Clyde Gallagher Street,8 Namekagon Court,7.89,47.79,7/4/2022,1/31/2022,1.6,46.54,cloudy,heavy,cash,4,213,back roads
+06/12/2025,7,30 Sunfield Crossing,97244 Mccormick Lane,32.48,110.9,5/27/2022,5/7/2022,1.6,20.4,snowy,light,mobile payment,2,54,highway
+06/12/2025,1,6567 Weeping Birch Place,1 Village Way,38.06,63.42,8/11/2022,1/24/2022,3.9,44.24,sunny,moderate,credit card,2,359,highway
+06/12/2025,9,1614 Kenwood Alley,1 Basil Hill,14.33,90.54,3/26/2022,7/14/2022,2.4,42.19,snowy,heavy,cash,2,382,back roads
+06/12/2025,5,38 Bellgrove Crossing,79 Esker Center,5.26,74.41,7/17/2022,7/29/2022,3.8,63.75,sunny,moderate,credit card,3,161,back roads
+06/12/2025,5,19 Sachtjen Way,57692 Ilene Road,41.64,27.03,9/9/2022,5/21/2022,4.0,78.83,cloudy,light,cash,3,542,back roads
+06/12/2025,8,02 Monica Trail,5 Reinke Junction,9.58,63.72,7/22/2022,6/22/2022,3.6,60.33,sunny,heavy,mobile payment,4,47,highway
+06/12/2025,1,15107 Donald Alley,82208 Annamark Crossing,41.74,71.64,1/17/2022,10/28/2022,4.7,71.84,snowy,light,cash,5,15,highway
+06/12/2025,3,47608 Coleman Point,0 Crownhardt Drive,10.64,112.47,1/27/2022,11/7/2022,2.0,11.11,sunny,moderate,mobile payment,4,201,city streets
+06/12/2025,4,6941 Bluejay Alley,8876 Pankratz Street,19.6,1.26,6/13/2022,7/5/2022,1.0,59.5,sunny,light,cash,5,230,city streets
+06/12/2025,5,4348 Nevada Lane,49 Westerfield Pass,38.5,26.99,2/20/2022,10/23/2022,4.7,24.71,sunny,moderate,cash,4,151,back roads
+06/12/2025,8,3911 Manufacturers Pass,241 Westerfield Street,47.89,21.41,4/17/2022,4/25/2022,4.7,32.87,cloudy,heavy,credit card,5,175,city streets
+06/12/2025,3,686 Fulton Terrace,0744 Sherman Junction,20.06,131.74,4/3/2022,10/14/2022,3.2,23.13,snowy,moderate,cash,3,21,back roads
+06/12/2025,5,077 Springs Pass,810 Linden Way,32.26,28.74,5/4/2022,10/17/2022,2.2,8.25,cloudy,heavy,credit card,5,324,highway
+06/12/2025,3,339 Bayside Park,403 Melby Parkway,14.84,121.23,5/9/2022,10/2/2022,1.4,80.73,snowy,light,mobile payment,4,152,back roads
+06/12/2025,6,24472 Village Lane,89 Warner Lane,33.23,148.28,2/25/2022,8/23/2022,2.3,29.49,snowy,light,mobile payment,3,83,highway
+06/12/2025,6,501 Dahle Avenue,9300 Fisk Crossing,30.37,56.09,7/11/2022,10/16/2022,3.4,12.51,cloudy,heavy,credit card,4,316,highway
+06/12/2025,9,5554 High Crossing Pass,09 6th Center,0.2,22.26,9/7/2022,10/29/2022,4.3,17.96,snowy,heavy,mobile payment,4,248,back roads
+06/12/2025,2,0 Jenna Road,0113 Bayside Street,4.11,3.1,7/18/2022,4/16/2022,1.9,87.32,snowy,moderate,cash,3,114,back roads
+06/12/2025,7,68 Kinsman Place,20 Roth Terrace,7.91,113.99,6/1/2022,11/1/2022,2.6,37.58,snowy,light,cash,2,550,highway
+06/12/2025,3,920 Ryan Circle,221 Mockingbird Way,25.67,120.64,4/11/2022,7/28/2022,4.4,42.53,sunny,moderate,mobile payment,5,363,back roads
+06/12/2025,9,284 Nelson Point,1708 Kim Hill,16.37,10.75,4/4/2022,8/15/2022,3.4,97.71,sunny,light,cash,3,83,highway
+06/12/2025,8,9606 Weeping Birch Crossing,0 Stang Center,14.75,18.82,3/20/2022,8/9/2022,4.7,18.95,snowy,moderate,mobile payment,4,157,city streets
+06/12/2025,3,5 Dexter Place,3328 Stephen Place,18.04,14.62,4/20/2022,7/12/2022,1.5,19.36,cloudy,heavy,credit card,1,108,city streets
+06/12/2025,7,06424 Mccormick Circle,709 Brentwood Point,38.24,58.11,7/26/2022,8/22/2022,4.6,91.08,cloudy,moderate,cash,2,94,highway
+06/12/2025,3,39 Dixon Way,7095 Esch Avenue,31.02,84.36,1/5/2022,4/23/2022,2.0,4.05,cloudy,heavy,cash,5,55,city streets
+06/12/2025,3,9 Moulton Circle,67 Tomscot Junction,35.93,133.92,5/31/2022,10/24/2022,1.7,66.23,snowy,moderate,mobile payment,3,274,city streets
+06/12/2025,4,30 Superior Avenue,98 Almo Center,16.69,19.81,9/1/2022,1/26/2022,4.8,42.57,cloudy,moderate,mobile payment,2,367,highway
+06/12/2025,1,56 Old Gate Street,46 Orin Drive,22.43,12.01,3/22/2022,7/21/2022,1.1,40.74,snowy,heavy,mobile payment,5,482,highway
+06/12/2025,9,50 Westend Terrace,89 Transport Hill,25.42,110.13,8/21/2022,10/8/2022,4.1,8.25,sunny,light,mobile payment,4,194,city streets
+06/12/2025,4,05033 David Point,05 Anderson Circle,15.53,124.81,9/7/2022,3/27/2022,1.4,73.72,sunny,light,credit card,1,567,highway
+06/12/2025,1,2 Tennyson Point,63 Butterfield Lane,41.91,53.76,1/31/2022,5/24/2022,2.3,67.97,sunny,moderate,credit card,4,291,city streets
+06/12/2025,5,05202 8th Hill,66 Springview Alley,10.71,97.99,7/3/2022,8/20/2022,1.4,25.25,sunny,moderate,cash,3,139,highway
+06/12/2025,7,427 Amoth Junction,23 Golf View Drive,41.18,83.2,9/9/2022,2/17/2022,3.2,2.16,cloudy,moderate,mobile payment,5,288,city streets
+06/12/2025,7,3 Buhler Park,4944 Novick Parkway,0.75,16.9,5/9/2022,7/6/2022,1.0,40.63,snowy,heavy,credit card,1,367,back roads
+06/12/2025,5,8 Lien Junction,432 Eastlawn Crossing,36.41,21.14,5/31/2022,3/24/2022,2.2,65.89,snowy,light,credit card,1,153,back roads
+06/12/2025,9,1 Hollow Ridge Center,78 Columbus Parkway,14.8,120.04,2/8/2022,10/17/2022,1.2,8.5,snowy,moderate,cash,5,538,city streets
+06/12/2025,4,04534 Calypso Junction,9021 Pepper Wood Court,41.37,67.82,7/30/2022,1/15/2022,3.7,60.67,sunny,heavy,credit card,2,159,city streets
+06/12/2025,1,15 Warrior Hill,47 Stephen Place,46.86,133.23,4/1/2022,3/14/2022,3.1,92.38,sunny,moderate,credit card,2,520,city streets
+06/12/2025,2,695 Express Park,9 Ludington Street,45.64,146.78,2/7/2022,8/10/2022,2.0,18.26,sunny,light,mobile payment,4,399,highway
+06/12/2025,5,299 Fuller Pass,87478 Hooker Point,33.41,102.9,2/22/2022,7/20/2022,2.6,40.79,sunny,moderate,credit card,1,292,highway
+06/12/2025,4,6 Oxford Drive,79709 Harbort Trail,26.36,39.93,8/2/2022,10/27/2022,1.7,88.26,snowy,heavy,mobile payment,2,252,highway
+06/12/2025,7,5 Luster Point,7 Sheridan Circle,36.76,72.03,2/1/2022,7/27/2022,4.2,99.48,sunny,light,cash,2,516,highway
+06/12/2025,6,80227 International Crossing,57 Lunder Trail,41.22,91.56,3/15/2022,2/19/2022,3.3,43.0,sunny,moderate,credit card,5,377,city streets
+06/12/2025,5,14 Mandrake Way,68776 Mendota Court,13.66,44.76,6/11/2022,3/28/2022,4.7,85.26,sunny,light,mobile payment,3,269,city streets
+06/12/2025,6,286 Melvin Hill,181 Pleasure Street,48.84,6.72,7/20/2022,6/20/2022,2.7,69.77,snowy,moderate,credit card,3,226,back roads
+06/12/2025,5,0396 Prentice Street,3602 Clyde Gallagher Lane,48.27,138.44,7/26/2022,2/7/2022,4.8,98.36,snowy,light,cash,1,550,city streets
+06/12/2025,7,0 Everett Place,207 Morrow Lane,26.72,37.39,8/22/2022,8/4/2022,2.6,73.78,cloudy,light,credit card,3,283,city streets
+06/12/2025,5,40183 Saint Paul Circle,9107 Gerald Trail,26.24,129.18,9/17/2022,4/2/2022,4.9,23.68,snowy,light,mobile payment,3,570,highway
+06/12/2025,9,85745 Vermont Street,62 Kings Point,47.29,83.01,3/21/2022,10/27/2022,3.6,74.57,snowy,moderate,mobile payment,5,593,city streets
+06/12/2025,8,5147 Waxwing Point,9964 American Park,32.39,13.23,4/26/2022,8/17/2022,4.0,28.65,cloudy,heavy,credit card,3,20,city streets
+06/12/2025,2,87439 Hanover Center,1546 Sloan Lane,18.56,3.93,3/10/2022,6/7/2022,2.7,67.13,cloudy,moderate,cash,3,371,back roads
+06/12/2025,4,24605 Utah Park,23 Stone Corner Parkway,15.6,138.08,7/29/2022,4/26/2022,2.8,17.7,cloudy,moderate,credit card,5,275,back roads
+06/12/2025,5,08 Tennessee Street,08 Corben Point,47.24,53.07,8/21/2022,3/9/2022,4.8,38.32,cloudy,moderate,mobile payment,4,425,city streets
+06/12/2025,1,14136 Randy Lane,004 Dexter Place,16.69,133.54,5/10/2022,8/16/2022,3.8,24.14,snowy,moderate,mobile payment,2,187,city streets
+06/12/2025,1,08738 American Ash Place,090 Hollow Ridge Plaza,46.49,128.42,6/6/2022,6/19/2022,4.9,37.14,sunny,moderate,mobile payment,4,11,back roads
+06/12/2025,9,89 Mallory Way,6401 Weeping Birch Trail,7.01,57.89,1/3/2022,10/4/2022,2.8,13.94,sunny,moderate,credit card,2,202,city streets
+06/12/2025,9,1862 Harper Point,5550 Kenwood Lane,25.56,134.15,3/5/2022,7/30/2022,4.4,60.88,snowy,light,mobile payment,4,340,highway
+06/12/2025,3,78 Lakewood Gardens Avenue,57370 Green Trail,16.56,10.91,7/11/2022,6/26/2022,4.3,34.44,sunny,heavy,credit card,4,557,city streets
+06/12/2025,8,26096 Stone Corner Plaza,986 Lindbergh Street,45.41,46.81,7/10/2022,10/26/2022,3.8,15.83,cloudy,moderate,mobile payment,5,526,city streets
+06/12/2025,5,2344 Bay Court,8 Myrtle Point,40.45,19.34,1/23/2022,7/21/2022,1.3,92.76,cloudy,moderate,credit card,3,570,back roads
+06/12/2025,3,57755 Schmedeman Plaza,0185 Truax Center,28.75,58.4,4/28/2022,7/23/2022,4.5,16.3,cloudy,moderate,credit card,5,347,highway
+06/12/2025,4,04 Monterey Circle,29891 Reinke Lane,15.05,93.06,4/29/2022,9/12/2022,1.7,64.72,snowy,light,mobile payment,4,179,highway
+06/12/2025,8,302 Dawn Place,19 Macpherson Circle,8.06,71.54,6/26/2022,6/18/2022,4.9,78.73,cloudy,heavy,credit card,2,104,city streets
+06/12/2025,1,85 Rutledge Point,8 Veith Junction,47.38,47.55,8/8/2022,8/4/2022,3.0,91.3,cloudy,heavy,mobile payment,4,420,back roads
+06/12/2025,7,6 Old Shore Point,3 Lyons Trail,45.13,111.42,4/23/2022,4/28/2022,2.6,67.46,snowy,heavy,mobile payment,1,515,highway
+06/12/2025,4,6582 Pearson Terrace,13 Raven Court,35.22,140.76,7/31/2022,9/5/2022,2.2,71.74,sunny,heavy,credit card,3,305,highway
+06/12/2025,2,2 Rigney Lane,5 Reindahl Place,12.5,45.58,8/2/2022,2/12/2022,3.4,5.79,snowy,light,mobile payment,5,520,highway
+06/12/2025,8,0 Warrior Crossing,5711 8th Road,7.11,13.35,7/7/2022,9/9/2022,2.0,56.58,cloudy,moderate,mobile payment,3,102,back roads
+06/12/2025,2,28 Pearson Junction,474 Pawling Alley,7.19,148.45,8/12/2022,9/8/2022,1.2,75.36,cloudy,heavy,cash,4,374,back roads
+06/12/2025,3,1641 Hagan Alley,4 Carpenter Parkway,17.47,67.45,5/4/2022,6/27/2022,1.0,2.25,cloudy,heavy,credit card,1,95,city streets
+06/12/2025,8,358 Crownhardt Pass,918 Grim Terrace,35.81,100.75,7/6/2022,6/28/2022,4.1,74.83,sunny,heavy,credit card,2,122,city streets
+06/12/2025,1,9606 Stuart Point,18834 Lerdahl Alley,12.28,43.54,6/13/2022,7/11/2022,3.7,86.74,snowy,heavy,cash,4,439,city streets
+06/12/2025,6,34343 Florence Point,0 Luster Lane,47.21,146.03,6/2/2022,6/28/2022,3.1,27.99,cloudy,heavy,credit card,5,175,back roads
+06/12/2025,8,33158 Fair Oaks Terrace,39567 Little Fleur Way,1.21,15.71,4/14/2022,8/25/2022,1.2,43.04,snowy,moderate,mobile payment,1,514,back roads
+06/12/2025,7,880 Bobwhite Point,7 Fremont Road,2.27,76.72,9/7/2022,4/14/2022,1.2,78.39,cloudy,heavy,credit card,4,500,back roads
+06/12/2025,2,54 Jenna Pass,0 Main Junction,40.14,141.85,2/20/2022,2/14/2022,4.6,67.5,cloudy,light,cash,1,56,highway
+06/12/2025,3,2169 Kennedy Lane,44668 Miller Alley,5.89,36.49,4/27/2022,2/13/2022,4.4,29.21,snowy,light,mobile payment,4,133,back roads
+06/12/2025,2,4 Carpenter Trail,6 Mcbride Crossing,42.84,48.92,1/13/2022,4/17/2022,2.1,61.31,cloudy,light,credit card,2,520,back roads
+06/12/2025,5,85 Iowa Point,215 Gulseth Lane,2.13,88.7,2/6/2022,10/7/2022,4.1,37.08,sunny,light,cash,4,516,city streets
+06/12/2025,2,238 Fremont Point,09 Monument Avenue,41.42,12.26,6/28/2022,8/28/2022,4.1,51.79,cloudy,moderate,cash,5,246,city streets
+06/12/2025,3,582 Tennessee Point,33651 Petterle Pass,5.07,113.14,6/11/2022,3/14/2022,3.9,38.1,sunny,heavy,mobile payment,1,172,back roads
+06/12/2025,1,8696 5th Hill,815 Farwell Plaza,26.34,103.11,8/2/2022,2/24/2022,4.8,72.7,snowy,light,credit card,4,231,highway
+06/12/2025,2,5 Laurel Avenue,91 Pennsylvania Point,32.84,82.38,8/26/2022,6/24/2022,3.2,24.83,cloudy,light,credit card,5,259,back roads
+06/12/2025,3,47 Melody Street,605 Nelson Terrace,44.68,6.87,1/3/2022,1/24/2022,4.4,7.57,sunny,heavy,credit card,4,240,highway
+06/12/2025,8,63 Washington Park,92870 Loeprich Center,3.47,136.54,6/10/2022,7/2/2022,3.7,46.69,cloudy,heavy,mobile payment,4,412,back roads
+06/12/2025,5,77 Cody Crossing,67409 Lighthouse Bay Lane,35.2,117.73,8/25/2022,10/12/2022,2.0,40.94,sunny,light,mobile payment,5,577,back roads
+06/12/2025,2,63 Ryan Avenue,26 Glendale Pass,21.6,82.82,1/20/2022,1/11/2022,1.6,86.56,sunny,heavy,mobile payment,1,161,city streets
+06/12/2025,1,1520 Lerdahl Street,95710 Wayridge Crossing,24.01,46.26,4/27/2022,7/27/2022,1.5,77.39,snowy,moderate,mobile payment,5,408,city streets
+06/12/2025,8,3 Forest Hill,216 Prentice Hill,11.37,34.23,6/15/2022,7/19/2022,3.7,71.36,snowy,moderate,credit card,1,327,city streets
+06/12/2025,7,41909 Dakota Parkway,4772 Hollow Ridge Drive,13.79,139.3,2/14/2022,11/3/2022,4.8,28.96,cloudy,moderate,credit card,4,24,city streets
+06/12/2025,1,60 Sherman Park,64 Dixon Place,9.22,76.54,9/11/2022,5/31/2022,1.3,23.03,snowy,heavy,mobile payment,2,281,city streets
+06/12/2025,1,939 Mifflin Road,84221 Everett Trail,5.72,146.11,3/13/2022,9/21/2022,3.3,66.8,snowy,moderate,credit card,2,579,back roads
+06/12/2025,3,20648 Duke Crossing,53 Esch Center,48.43,46.16,8/5/2022,10/31/2022,4.1,14.76,sunny,moderate,mobile payment,2,432,back roads
+06/12/2025,4,092 Harbort Alley,2260 Crest Line Road,25.41,86.66,5/6/2022,7/13/2022,4.2,10.05,snowy,heavy,credit card,5,452,city streets
+06/12/2025,2,0 Annamark Crossing,86175 Mockingbird Point,30.97,125.11,5/4/2022,2/24/2022,3.7,7.06,snowy,moderate,mobile payment,3,124,back roads
+06/12/2025,7,0 Continental Center,50 Dwight Road,9.88,51.89,5/7/2022,5/1/2022,3.4,28.97,snowy,heavy,credit card,5,106,highway
+06/12/2025,2,264 Doe Crossing Parkway,62971 Debra Street,38.25,106.7,2/15/2022,3/7/2022,3.5,2.37,snowy,moderate,credit card,2,330,back roads
+06/12/2025,2,440 Cardinal Center,22 Schlimgen Way,13.74,51.52,1/16/2022,5/6/2022,4.7,85.29,cloudy,light,mobile payment,1,366,city streets
+06/12/2025,7,8 Marcy Pass,3 Lillian Point,18.49,117.84,1/24/2022,10/30/2022,1.8,82.06,snowy,moderate,credit card,3,64,city streets
+06/12/2025,2,87120 Prentice Pass,13 Maywood Street,3.36,46.58,6/5/2022,4/8/2022,3.9,64.87,cloudy,moderate,credit card,2,263,back roads
+06/12/2025,8,18814 Clove Park,8783 Macpherson Junction,39.01,6.64,6/4/2022,8/7/2022,2.9,59.03,sunny,moderate,credit card,5,210,highway
+06/12/2025,8,19 Nova Alley,55 Park Meadow Alley,4.71,134.01,5/28/2022,8/31/2022,4.1,90.64,sunny,light,credit card,5,515,highway
+06/12/2025,3,170 Rusk Plaza,8896 Birchwood Center,2.87,91.54,8/2/2022,1/29/2022,1.6,68.71,cloudy,moderate,mobile payment,3,126,highway
+06/12/2025,3,085 Arkansas Pass,7743 Park Meadow Point,7.63,58.71,1/5/2022,2/25/2022,4.6,88.03,snowy,heavy,cash,2,3,city streets
+06/12/2025,7,8211 Annamark Center,72 Michigan Trail,11.26,131.37,6/9/2022,6/21/2022,1.4,5.15,sunny,light,credit card,1,479,back roads
+06/12/2025,2,59 Rieder Drive,858 Heath Court,44.82,4.83,5/22/2022,4/24/2022,4.5,10.66,sunny,heavy,credit card,3,324,highway
+06/12/2025,4,28139 Hauk Point,57 Gina Point,8.07,41.09,2/13/2022,1/31/2022,1.3,38.33,cloudy,moderate,credit card,1,131,highway
+06/12/2025,9,61252 North Trail,4693 Waubesa Crossing,0.43,45.86,4/15/2022,6/20/2022,4.4,73.6,snowy,light,mobile payment,4,49,back roads
+06/12/2025,8,98 Sheridan Park,8332 Sauthoff Parkway,16.28,31.58,8/20/2022,1/9/2022,2.5,65.83,cloudy,light,credit card,3,527,back roads
+06/12/2025,7,5857 Declaration Crossing,741 Paget Junction,42.82,84.4,7/12/2022,9/1/2022,4.2,98.21,snowy,moderate,mobile payment,2,309,back roads
+06/12/2025,3,44 Duke Street,2 Dawn Trail,0.85,0.66,1/26/2022,3/9/2022,1.4,12.54,sunny,moderate,credit card,1,405,highway
+06/12/2025,5,959 Superior Circle,6 American Ash Lane,45.95,113.32,4/28/2022,3/7/2022,1.1,2.34,snowy,heavy,credit card,2,215,city streets
+06/12/2025,7,03 Sachs Court,51 Victoria Lane,20.94,78.12,7/23/2022,6/6/2022,4.9,29.78,sunny,moderate,credit card,4,68,highway
+06/12/2025,7,7970 Thackeray Circle,28 Manley Court,3.89,42.98,6/23/2022,4/20/2022,1.4,90.82,cloudy,light,credit card,4,385,city streets
+06/12/2025,1,9968 Old Gate Place,13799 Loftsgordon Court,0.24,69.43,8/13/2022,1/30/2022,1.0,84.8,snowy,light,credit card,1,406,highway
+06/12/2025,4,3 Blue Bill Park Court,7 Nancy Park,23.4,116.22,8/12/2022,6/12/2022,4.0,99.66,sunny,moderate,cash,3,362,highway
+06/12/2025,1,780 Coolidge Hill,480 Browning Road,44.22,98.44,7/31/2022,11/5/2022,4.6,64.13,cloudy,light,cash,1,99,city streets
+06/12/2025,5,49 Sage Park,38 Maple Circle,34.59,114.88,4/19/2022,3/25/2022,3.3,0.88,sunny,moderate,credit card,5,382,highway
+06/12/2025,3,2880 Buell Parkway,05 Corben Plaza,47.13,49.69,1/23/2022,6/21/2022,2.2,48.96,cloudy,moderate,cash,2,222,city streets
+06/12/2025,9,27 Longview Parkway,4 Union Point,26.84,45.85,6/16/2022,9/26/2022,1.0,50.94,cloudy,moderate,cash,2,282,back roads
+06/12/2025,5,575 6th Lane,8 Express Parkway,17.16,37.74,8/26/2022,4/25/2022,2.3,96.29,snowy,moderate,cash,3,84,highway
+06/12/2025,9,493 Debra Circle,5269 Golf Drive,1.5,29.18,7/23/2022,4/24/2022,3.7,99.58,cloudy,light,cash,2,294,highway
+06/12/2025,2,47510 Stuart Trail,805 Service Circle,32.56,125.55,7/29/2022,4/24/2022,1.5,40.87,snowy,heavy,credit card,5,131,city streets
+06/12/2025,5,8 Express Alley,0 Thackeray Pass,27.24,2.56,1/4/2022,3/11/2022,3.0,58.03,snowy,light,credit card,2,122,back roads
+06/12/2025,6,469 Anthes Way,7933 Arrowood Alley,10.61,134.79,9/14/2022,8/18/2022,3.6,84.35,snowy,heavy,mobile payment,1,524,highway
+06/12/2025,8,035 Donald Pass,7 Sullivan Center,40.2,118.13,9/9/2022,7/22/2022,1.3,26.01,sunny,heavy,credit card,2,261,city streets
+06/12/2025,4,110 Cambridge Lane,78225 American Ash Alley,4.76,5.55,8/5/2022,2/17/2022,1.4,83.5,snowy,moderate,mobile payment,1,202,back roads
+06/12/2025,7,37 Mifflin Place,2996 Old Shore Alley,18.52,105.3,8/23/2022,9/21/2022,1.6,78.13,sunny,light,cash,3,212,city streets
+06/12/2025,2,55 Buena Vista Place,50822 Schiller Center,20.51,16.48,3/30/2022,9/15/2022,2.6,96.72,cloudy,moderate,cash,2,527,city streets
+06/12/2025,9,6 New Castle Hill,95 Golden Leaf Parkway,47.27,84.94,1/5/2022,3/17/2022,4.4,52.67,cloudy,heavy,credit card,4,525,back roads
+06/12/2025,5,933 Ridgeway Avenue,563 Dottie Plaza,49.65,36.09,2/13/2022,11/4/2022,2.3,73.0,cloudy,light,credit card,5,220,city streets
+06/12/2025,7,8 John Wall Avenue,127 Sullivan Pass,27.85,73.83,3/5/2022,5/3/2022,1.9,11.81,snowy,heavy,credit card,1,377,highway
+06/12/2025,2,3870 Bowman Junction,49 Transport Lane,43.82,49.37,9/1/2022,8/29/2022,2.7,95.71,sunny,heavy,credit card,4,307,highway
+06/12/2025,4,78 Vernon Pass,2976 Buena Vista Drive,36.93,7.06,1/25/2022,8/19/2022,2.0,51.2,sunny,moderate,credit card,1,40,back roads
+06/12/2025,9,398 Stephen Junction,92 Kings Trail,46.73,90.56,4/7/2022,4/6/2022,3.3,53.13,cloudy,heavy,cash,4,352,highway
+06/12/2025,9,1513 Pond Parkway,392 Dryden Circle,7.19,138.24,2/20/2022,3/20/2022,1.4,8.67,sunny,heavy,mobile payment,2,582,city streets
+06/12/2025,3,36 Carey Plaza,75529 Hollow Ridge Plaza,29.68,51.7,3/9/2022,10/8/2022,2.7,5.03,cloudy,heavy,credit card,3,455,highway
+06/12/2025,8,85 Mandrake Point,33 Union Road,17.86,76.97,2/13/2022,9/21/2022,1.9,46.72,sunny,moderate,cash,2,422,highway
+06/12/2025,1,833 Heffernan Terrace,090 Russell Way,4.83,31.4,8/16/2022,2/10/2022,2.4,76.55,snowy,moderate,mobile payment,3,102,city streets
+06/12/2025,5,69639 Gerald Junction,6254 Nancy Point,4.6,112.61,1/5/2022,7/7/2022,4.5,55.97,snowy,moderate,credit card,3,295,city streets
+06/12/2025,6,3 Lighthouse Bay Place,499 Lakewood Lane,2.33,122.28,8/26/2022,8/28/2022,1.9,0.47,cloudy,moderate,mobile payment,1,306,back roads
+06/12/2025,1,4 Stuart Park,30027 Pierstorff Crossing,18.23,128.28,7/9/2022,9/13/2022,4.8,89.41,sunny,heavy,mobile payment,4,517,back roads
+06/12/2025,8,745 Gulseth Trail,3304 Chinook Circle,1.1,116.78,3/20/2022,7/9/2022,4.7,58.69,snowy,heavy,mobile payment,5,550,highway
+06/12/2025,6,013 Lerdahl Trail,46 Cody Junction,49.83,52.75,1/9/2022,9/5/2022,4.5,11.46,cloudy,light,cash,1,314,back roads
+06/12/2025,4,94 Straubel Road,551 Park Meadow Place,49.82,8.29,7/26/2022,9/15/2022,4.0,25.84,cloudy,light,cash,2,335,highway
+06/12/2025,9,8753 Reinke Alley,686 Stoughton Point,42.11,146.06,7/10/2022,3/22/2022,2.3,37.98,cloudy,moderate,mobile payment,4,509,highway
+06/12/2025,3,14 Bellgrove Point,690 Johnson Drive,21.96,92.64,6/28/2022,8/7/2022,4.2,56.71,snowy,moderate,credit card,4,518,highway
+06/12/2025,4,04080 Fulton Court,90758 Utah Road,5.75,131.9,6/29/2022,10/17/2022,3.8,78.72,snowy,light,credit card,5,173,city streets
+06/12/2025,2,62 Kim Center,7 Hayes Pass,6.66,76.9,9/1/2022,9/27/2022,4.1,20.92,sunny,heavy,cash,4,353,highway
+06/12/2025,2,60 Old Shore Parkway,6 Northport Circle,25.06,95.93,6/15/2022,8/2/2022,4.6,69.78,snowy,moderate,credit card,2,438,city streets
+06/12/2025,1,77 Almo Center,30136 Brown Drive,36.73,83.82,1/24/2022,5/29/2022,1.6,70.93,snowy,heavy,credit card,3,15,highway
+06/12/2025,6,37820 Lighthouse Bay Point,805 Blaine Point,43.14,66.52,7/15/2022,4/27/2022,2.0,15.8,sunny,moderate,credit card,5,212,highway
+06/12/2025,9,44 Village Circle,361 Scofield Road,2.26,146.72,7/23/2022,10/24/2022,2.6,5.4,snowy,light,mobile payment,3,399,city streets
+06/12/2025,8,1 Anhalt Alley,5128 Forest Dale Road,7.04,91.82,1/16/2022,9/14/2022,1.8,34.61,cloudy,heavy,credit card,3,126,city streets
+06/12/2025,3,5380 Raven Trail,09 Thompson Court,11.55,102.52,6/8/2022,4/3/2022,4.9,11.41,snowy,light,cash,4,435,highway
+06/12/2025,5,08656 Weeping Birch Parkway,264 Vernon Circle,41.53,29.92,5/28/2022,6/5/2022,4.5,70.98,sunny,moderate,cash,4,280,city streets
+06/12/2025,8,509 Paget Court,7499 Arapahoe Drive,3.83,96.57,6/7/2022,5/13/2022,3.2,80.99,sunny,light,credit card,2,126,highway
+06/12/2025,3,3 Mandrake Way,382 Little Fleur Hill,2.66,112.27,1/19/2022,4/10/2022,4.4,25.07,snowy,light,mobile payment,1,480,back roads
+06/12/2025,9,1635 Schurz Avenue,73 Lighthouse Bay Trail,37.54,124.54,2/10/2022,1/16/2022,3.0,64.09,sunny,moderate,credit card,2,158,back roads
+06/12/2025,4,69 Little Fleur Avenue,877 Killdeer Plaza,7.27,85.87,2/18/2022,4/28/2022,2.0,72.44,snowy,heavy,cash,1,105,highway
+06/12/2025,4,0953 Harper Plaza,96281 Corry Parkway,16.02,31.67,3/25/2022,2/4/2022,4.5,35.32,snowy,heavy,credit card,2,397,city streets
+06/12/2025,6,7106 Hermina Circle,27122 Shelley Place,9.8,95.23,3/22/2022,8/4/2022,1.4,11.65,sunny,light,cash,5,103,highway
+06/12/2025,5,66 Oxford Junction,41616 Green Plaza,24.95,96.42,7/24/2022,6/1/2022,2.5,19.05,cloudy,heavy,credit card,4,104,highway
+06/12/2025,9,3073 Leroy Avenue,39 Merchant Pass,28.87,134.18,6/16/2022,8/22/2022,2.1,77.29,snowy,heavy,credit card,5,334,highway
+06/12/2025,1,4 Gerald Lane,32174 Forest Run Hill,42.01,54.07,1/19/2022,2/10/2022,2.7,72.49,sunny,heavy,cash,5,435,city streets
+06/12/2025,2,9 Tennyson Center,56 Monica Street,41.57,106.0,2/5/2022,9/27/2022,3.4,27.85,sunny,heavy,cash,5,68,highway
+06/12/2025,8,8150 Village Green Junction,771 Roxbury Place,24.75,50.64,5/21/2022,6/17/2022,4.4,30.74,sunny,heavy,cash,5,583,city streets
+06/12/2025,1,27 Clemons Road,92 Waxwing Plaza,31.24,147.34,6/27/2022,3/12/2022,4.6,69.45,snowy,light,mobile payment,5,20,city streets
+06/12/2025,5,05 Pierstorff Circle,94671 Lotheville Avenue,43.07,48.93,7/4/2022,1/25/2022,1.1,95.18,sunny,light,credit card,3,326,city streets
+06/12/2025,4,3 Mockingbird Plaza,9806 Doe Crossing Road,24.43,102.95,4/7/2022,8/17/2022,3.7,49.6,snowy,moderate,credit card,2,165,highway
+06/12/2025,9,8419 Towne Pass,7128 Stoughton Circle,20.83,23.08,7/11/2022,5/6/2022,4.6,35.07,cloudy,heavy,cash,2,109,back roads
+06/12/2025,1,755 Upham Hill,0027 Hanson Point,7.64,133.3,3/16/2022,7/23/2022,3.7,23.75,cloudy,moderate,cash,3,454,city streets
+06/12/2025,9,597 Hayes Parkway,2 Glacier Hill Hill,34.38,53.05,9/13/2022,10/14/2022,4.1,60.22,sunny,light,cash,1,427,highway
+06/12/2025,5,8 Mesta Road,2 Sullivan Street,26.69,35.7,9/1/2022,7/3/2022,1.5,39.62,cloudy,moderate,mobile payment,2,247,city streets
+06/12/2025,1,26914 Maywood Circle,992 Muir Alley,29.53,82.22,8/19/2022,9/17/2022,4.7,59.46,cloudy,heavy,mobile payment,4,419,back roads
+06/12/2025,4,5 Manitowish Street,84759 Tennessee Trail,42.63,102.7,3/4/2022,10/27/2022,4.6,6.55,cloudy,heavy,mobile payment,1,64,back roads
+06/12/2025,2,1 Mesta Drive,32876 Pond Point,26.27,118.06,8/25/2022,10/11/2022,3.4,47.59,snowy,moderate,mobile payment,4,1,back roads
+06/12/2025,5,2381 Annamark Terrace,4 Kennedy Avenue,27.96,47.36,2/14/2022,3/18/2022,2.0,35.51,snowy,light,cash,2,226,city streets
+06/12/2025,2,284 Hoepker Alley,27 Hanson Park,25.86,105.33,8/29/2022,3/9/2022,2.6,30.73,snowy,light,cash,5,329,back roads
+06/12/2025,5,01090 Killdeer Terrace,7 Carberry Lane,31.86,113.07,4/12/2022,1/30/2022,2.3,22.0,snowy,heavy,credit card,5,398,highway
+06/12/2025,2,2944 Florence Avenue,40962 Autumn Leaf Lane,41.72,48.01,5/4/2022,6/2/2022,1.5,79.05,snowy,light,credit card,3,353,back roads
+06/12/2025,3,180 Starling Crossing,04 Kropf Circle,15.8,60.45,4/5/2022,11/1/2022,1.2,87.33,snowy,light,cash,1,44,back roads
+06/12/2025,8,1829 Spenser Avenue,90415 Carey Way,40.54,3.79,4/14/2022,4/15/2022,1.8,79.35,snowy,light,mobile payment,4,346,highway
+06/12/2025,6,69 Texas Trail,9 Northridge Street,12.64,65.4,7/18/2022,10/1/2022,1.2,55.21,cloudy,heavy,cash,4,386,city streets
+06/12/2025,4,5 Bonner Parkway,31 Columbus Junction,20.65,103.24,7/2/2022,7/19/2022,1.3,33.7,snowy,light,mobile payment,2,456,city streets
+06/12/2025,5,3500 Northfield Avenue,92903 Barby Hill,28.48,31.16,5/30/2022,9/22/2022,3.8,54.78,cloudy,heavy,cash,4,561,city streets
+06/12/2025,9,021 Northport Road,247 Vera Place,4.68,4.29,8/30/2022,6/5/2022,3.9,89.73,sunny,heavy,mobile payment,4,225,back roads
+06/12/2025,7,7 Mayer Parkway,5651 Marcy Drive,47.6,1.85,3/29/2022,9/11/2022,1.4,86.43,cloudy,heavy,credit card,1,309,back roads
+06/12/2025,2,71208 Arizona Lane,96523 Waxwing Lane,5.82,2.03,9/16/2022,9/26/2022,1.3,97.98,snowy,heavy,credit card,4,339,back roads
+06/12/2025,2,43 Lighthouse Bay Junction,0 Schiller Hill,38.92,95.8,5/5/2022,10/7/2022,2.8,92.5,snowy,light,cash,2,71,city streets
+06/12/2025,4,88975 Montana Circle,76880 Corben Trail,49.72,108.89,4/2/2022,1/16/2022,1.8,86.05,snowy,heavy,credit card,3,393,highway
+06/12/2025,3,10306 Loeprich Street,755 Butternut Point,27.25,128.13,8/2/2022,4/17/2022,3.2,17.02,cloudy,light,mobile payment,2,214,highway
+06/12/2025,8,68 Shopko Lane,39 Doe Crossing Pass,42.89,3.14,5/7/2022,2/18/2022,4.7,96.37,sunny,light,mobile payment,1,28,city streets
+06/12/2025,4,56081 Kennedy Drive,6 Village Drive,22.49,81.76,1/24/2022,8/12/2022,4.1,12.6,snowy,heavy,credit card,3,460,city streets
+06/12/2025,4,96 Straubel Way,51546 Transport Junction,2.06,126.68,6/26/2022,5/7/2022,2.6,19.99,cloudy,light,cash,4,584,highway
+06/12/2025,1,2 Huxley Center,6565 Heath Park,20.38,75.06,3/23/2022,1/18/2022,2.0,93.13,snowy,moderate,credit card,1,395,back roads
+06/12/2025,7,2 Donald Plaza,0917 Schurz Center,25.21,2.81,8/4/2022,4/28/2022,3.6,54.45,snowy,heavy,mobile payment,5,467,highway
+06/12/2025,7,6 Farragut Trail,49956 Center Terrace,35.67,50.09,1/2/2022,7/18/2022,4.2,68.19,sunny,light,cash,2,120,back roads
+06/12/2025,1,0 Dayton Lane,502 Maywood Center,38.34,100.49,9/3/2022,5/9/2022,2.4,78.04,sunny,light,cash,3,459,back roads
+06/12/2025,3,219 Lake View Plaza,2 Iowa Park,13.16,108.31,4/14/2022,6/17/2022,1.7,25.96,snowy,moderate,mobile payment,1,210,back roads
+06/12/2025,8,6 Granby Crossing,44 Bashford Trail,16.93,11.65,7/26/2022,6/13/2022,1.1,15.01,snowy,moderate,mobile payment,4,139,back roads
+06/12/2025,2,59732 Fairfield Crossing,067 Loftsgordon Junction,9.1,22.33,5/13/2022,8/31/2022,3.6,12.36,cloudy,moderate,cash,2,320,city streets
+06/12/2025,2,87 Washington Plaza,2396 Talisman Trail,2.55,46.37,5/4/2022,8/23/2022,1.8,38.09,cloudy,light,mobile payment,1,522,city streets
+06/12/2025,4,0 Shasta Parkway,49756 Surrey Circle,29.31,116.27,1/16/2022,5/13/2022,1.8,34.33,snowy,heavy,credit card,5,400,highway
+06/12/2025,7,758 Ruskin Park,296 Karstens Center,28.03,24.77,7/3/2022,10/23/2022,3.3,99.39,cloudy,moderate,credit card,3,164,back roads
+06/12/2025,9,9089 Hermina Terrace,67 7th Circle,38.07,88.43,5/10/2022,5/24/2022,4.8,42.05,sunny,moderate,mobile payment,1,30,highway
+06/12/2025,9,85870 Summit Pass,116 Buell Lane,40.68,131.98,2/5/2022,5/2/2022,4.0,49.34,sunny,light,cash,1,397,city streets
+06/12/2025,4,8342 Dexter Center,21 Pleasure Lane,8.52,127.85,8/26/2022,10/3/2022,4.3,28.58,cloudy,heavy,cash,5,16,city streets
+06/12/2025,7,56 Monica Center,1 Mandrake Point,40.92,81.32,5/30/2022,4/4/2022,3.5,31.59,sunny,light,credit card,2,215,city streets
+06/12/2025,8,26681 Veith Avenue,509 West Point,45.36,83.06,8/10/2022,8/23/2022,4.6,2.25,snowy,light,mobile payment,1,1,city streets
+06/12/2025,4,5834 Blaine Junction,61 6th Hill,35.9,4.78,4/12/2022,6/11/2022,4.2,59.73,sunny,moderate,credit card,5,45,highway
+06/12/2025,3,76546 Northfield Park,75 Forest Run Terrace,29.75,140.89,5/31/2022,4/18/2022,1.5,24.5,snowy,moderate,credit card,5,242,back roads
+06/12/2025,1,45343 Forster Park,9669 Hoffman Parkway,27.2,73.02,1/22/2022,6/15/2022,3.7,37.7,snowy,moderate,credit card,1,537,highway
+06/12/2025,2,8129 3rd Drive,9 Clemons Circle,46.93,97.08,7/20/2022,5/4/2022,2.3,25.25,sunny,heavy,mobile payment,5,335,back roads
+06/12/2025,3,450 Sutteridge Way,23 Starling Road,25.19,94.43,8/27/2022,4/17/2022,4.4,5.88,cloudy,heavy,cash,5,297,back roads
+06/12/2025,6,0176 Raven Hill,620 Lighthouse Bay Point,31.89,112.72,3/25/2022,4/23/2022,4.4,63.3,sunny,heavy,mobile payment,2,207,back roads
+06/12/2025,2,86 Onsgard Street,82991 Oriole Junction,28.45,20.46,4/28/2022,8/7/2022,3.1,11.81,snowy,heavy,mobile payment,2,449,back roads
+06/12/2025,7,4944 New Castle Street,03 Oak Valley Crossing,42.41,10.28,1/8/2022,10/19/2022,1.4,40.78,sunny,light,mobile payment,4,301,back roads
+06/12/2025,2,8 Scoville Park,0 Crest Line Junction,44.6,57.29,8/31/2022,8/27/2022,1.3,30.67,cloudy,moderate,cash,4,67,city streets
+06/12/2025,5,83 Lyons Hill,51 Logan Alley,33.71,91.92,1/19/2022,6/14/2022,4.7,7.2,sunny,heavy,mobile payment,1,408,highway
+06/12/2025,9,044 Golf Course Court,7305 Anderson Junction,36.89,8.0,5/1/2022,9/25/2022,1.3,84.11,sunny,heavy,cash,1,108,city streets
+06/12/2025,9,02429 Dayton Trail,32133 Lien Plaza,41.41,16.73,7/27/2022,9/23/2022,3.4,17.42,sunny,heavy,credit card,4,331,back roads
+06/12/2025,1,9 Susan Park,175 Anniversary Terrace,12.87,139.52,7/11/2022,2/11/2022,4.2,50.96,cloudy,heavy,cash,3,60,highway
+06/12/2025,6,0600 Dayton Pass,5 Sutherland Alley,29.42,65.25,1/9/2022,3/29/2022,3.8,96.85,cloudy,moderate,cash,3,20,back roads
+06/12/2025,3,2 School Drive,38 Loftsgordon Point,41.65,89.45,1/24/2022,3/15/2022,5.0,66.64,sunny,heavy,cash,2,33,city streets
+06/12/2025,4,414 Sundown Circle,15244 Truax Circle,17.2,65.64,8/19/2022,7/18/2022,4.5,31.78,snowy,heavy,mobile payment,4,370,back roads
+06/12/2025,6,8197 Washington Trail,29615 Eagle Crest Road,39.11,28.32,5/23/2022,4/6/2022,4.0,76.34,sunny,heavy,mobile payment,1,223,city streets
+06/12/2025,6,445 Debs Alley,14078 Namekagon Road,9.6,106.08,7/21/2022,1/24/2022,2.3,19.13,sunny,moderate,cash,2,190,back roads
+06/12/2025,1,59522 Union Park,26 Mosinee Circle,6.27,124.94,9/10/2022,6/15/2022,2.1,8.93,sunny,moderate,mobile payment,2,169,city streets
+06/12/2025,5,4 Colorado Plaza,157 Merrick Avenue,13.37,80.19,8/21/2022,10/31/2022,2.8,6.6,cloudy,heavy,cash,1,40,back roads
+06/12/2025,9,0330 Dexter Street,3 Carberry Drive,4.47,10.24,2/17/2022,1/17/2022,2.9,12.81,cloudy,light,cash,2,60,city streets
+06/12/2025,8,099 Starling Pass,7 Bunting Avenue,25.3,120.8,9/11/2022,8/2/2022,4.9,75.62,snowy,light,cash,1,303,city streets
+06/12/2025,7,3 Pierstorff Drive,310 Heath Circle,5.2,6.98,6/6/2022,10/31/2022,1.9,70.94,sunny,moderate,mobile payment,2,282,highway
+06/12/2025,5,8943 Hanover Avenue,94331 Warbler Street,4.28,89.94,7/12/2022,2/18/2022,3.2,88.83,snowy,moderate,mobile payment,4,171,highway
+06/12/2025,1,9 Novick Place,12098 Golden Leaf Way,29.03,121.31,8/12/2022,1/26/2022,2.9,14.14,cloudy,heavy,credit card,4,178,back roads
+06/12/2025,9,5 Hoffman Circle,243 Tennessee Drive,15.55,75.54,7/8/2022,1/13/2022,4.9,63.35,cloudy,light,mobile payment,4,164,city streets
+06/12/2025,9,2055 Bonner Court,405 Morningstar Hill,34.73,123.36,2/13/2022,1/23/2022,1.2,44.26,cloudy,moderate,mobile payment,2,180,back roads
+06/12/2025,8,9881 Arkansas Plaza,98 Laurel Alley,41.46,134.56,8/6/2022,8/9/2022,2.4,33.89,cloudy,heavy,cash,1,293,city streets
+06/12/2025,9,98368 Starling Point,3351 Dryden Point,1.43,64.6,1/6/2022,9/9/2022,2.0,0.62,sunny,moderate,credit card,4,109,highway
+06/12/2025,8,51 Hanson Way,24 La Follette Avenue,33.19,131.44,3/2/2022,10/15/2022,2.8,31.07,sunny,moderate,credit card,4,198,back roads
+06/12/2025,8,57 Rieder Drive,6 Green Hill,5.65,61.49,1/25/2022,6/20/2022,3.2,29.97,sunny,moderate,cash,4,153,highway
+06/12/2025,3,77 John Wall Center,85 Vernon Park,23.62,21.66,3/4/2022,5/11/2022,3.3,68.98,sunny,light,credit card,4,88,city streets
+06/12/2025,6,30 Steensland Place,04 Holmberg Parkway,8.64,139.18,4/22/2022,3/30/2022,3.6,20.89,sunny,heavy,mobile payment,3,444,highway
+06/12/2025,4,69840 Myrtle Junction,47262 Dawn Drive,5.26,104.13,8/17/2022,7/23/2022,3.8,31.33,cloudy,heavy,cash,5,80,back roads
+06/12/2025,6,8041 Toban Street,54762 Muir Drive,21.19,96.81,4/25/2022,8/24/2022,4.0,7.17,cloudy,light,mobile payment,2,127,back roads
+06/12/2025,1,40603 Tennyson Park,98 Graceland Drive,13.64,130.99,4/23/2022,10/27/2022,4.9,68.69,sunny,light,credit card,4,87,back roads
+06/12/2025,9,282 South Parkway,8 Cherokee Court,19.81,64.5,1/17/2022,5/29/2022,2.5,64.59,snowy,light,credit card,5,595,highway
+06/12/2025,6,3961 Kropf Place,8 Spohn Junction,17.26,116.29,7/10/2022,8/2/2022,2.8,85.4,snowy,light,credit card,2,358,back roads
+06/12/2025,3,99446 Havey Lane,63 Wayridge Court,31.97,126.72,2/21/2022,8/9/2022,1.5,12.8,cloudy,light,mobile payment,3,8,back roads
+06/12/2025,5,850 Fieldstone Trail,1 Orin Avenue,40.47,83.01,3/5/2022,3/9/2022,1.6,34.54,sunny,moderate,mobile payment,3,239,city streets
+06/12/2025,1,40 Anderson Trail,7973 Spaight Alley,7.63,62.54,2/6/2022,5/11/2022,2.7,68.62,cloudy,light,mobile payment,5,156,back roads
+06/12/2025,7,51 5th Terrace,8 Goodland Drive,38.95,0.87,3/17/2022,8/18/2022,1.5,17.08,cloudy,light,mobile payment,2,575,back roads
+06/12/2025,6,246 Debra Plaza,46745 Lukken Avenue,0.56,133.51,6/28/2022,6/10/2022,1.5,17.0,cloudy,light,credit card,2,584,back roads
+06/12/2025,5,83436 Sage Crossing,5922 Sage Circle,28.61,91.32,5/7/2022,2/9/2022,2.1,54.64,cloudy,heavy,cash,3,63,highway
+06/12/2025,6,1528 Di Loreto Place,283 Dakota Plaza,1.0,20.48,8/31/2022,4/21/2022,2.9,74.93,cloudy,heavy,mobile payment,2,465,city streets
+06/12/2025,5,19430 Erie Avenue,0712 Sunbrook Pass,23.27,51.64,5/28/2022,5/23/2022,3.9,73.44,cloudy,light,mobile payment,3,512,back roads
+06/12/2025,5,976 Gina Hill,0 Delladonna Hill,11.31,25.92,6/24/2022,6/21/2022,3.6,18.95,cloudy,moderate,mobile payment,2,4,city streets
+06/12/2025,8,1 Kedzie Junction,0756 Hanson Way,13.34,43.73,1/18/2022,9/13/2022,1.2,34.06,snowy,heavy,credit card,5,590,city streets
+06/12/2025,8,964 Weeping Birch Crossing,18 Namekagon Trail,7.28,145.73,8/31/2022,8/23/2022,4.1,10.42,snowy,heavy,credit card,5,79,city streets
+06/12/2025,5,12 Pepper Wood Court,2230 Nevada Park,30.53,148.61,2/2/2022,5/13/2022,2.4,30.42,sunny,moderate,cash,1,310,city streets
+06/12/2025,6,261 Division Pass,496 Cottonwood Court,10.87,91.53,1/13/2022,3/2/2022,4.3,15.74,snowy,moderate,credit card,5,573,highway
+06/12/2025,6,79 Mallard Plaza,6198 Sutteridge Drive,12.5,114.47,9/3/2022,5/5/2022,2.0,26.28,sunny,heavy,cash,5,276,back roads
+06/12/2025,5,3035 Coleman Drive,8 Cardinal Road,40.5,122.07,8/3/2022,7/25/2022,1.2,89.94,cloudy,moderate,credit card,3,305,highway
+06/12/2025,9,7718 Scofield Circle,64876 Golden Leaf Crossing,36.02,66.24,5/17/2022,2/1/2022,2.4,99.27,cloudy,light,credit card,3,356,highway
+06/12/2025,3,5 Washington Avenue,65629 Buena Vista Avenue,19.72,15.94,3/14/2022,4/17/2022,3.0,33.09,snowy,heavy,cash,5,449,highway
+06/12/2025,7,2 Hallows Center,6867 Mayer Point,45.16,131.97,5/18/2022,10/24/2022,2.0,18.28,cloudy,moderate,credit card,3,506,back roads
+06/12/2025,3,42897 Brentwood Trail,875 Boyd Avenue,40.3,7.45,7/30/2022,9/25/2022,1.5,24.52,cloudy,light,cash,1,574,highway
+06/12/2025,4,1315 Delaware Junction,32809 Morrow Trail,15.03,61.33,5/26/2022,4/24/2022,2.3,26.89,snowy,heavy,credit card,4,75,city streets
+06/12/2025,5,6550 Donald Terrace,2072 Pepper Wood Crossing,6.77,23.42,8/19/2022,1/18/2022,1.3,33.83,sunny,light,credit card,3,136,highway
+06/12/2025,6,573 Texas Park,2 Forest Run Lane,36.29,18.39,4/5/2022,1/9/2022,3.0,58.13,cloudy,light,cash,4,405,back roads
+06/12/2025,9,1 Dovetail Road,15686 Colorado Terrace,37.44,141.15,8/2/2022,9/18/2022,3.7,71.29,snowy,moderate,cash,5,178,highway
+06/12/2025,7,61017 Beilfuss Park,30 Red Cloud Way,35.13,82.87,5/8/2022,11/2/2022,2.9,68.1,sunny,heavy,cash,5,276,highway
+06/12/2025,1,40695 Banding Plaza,191 Red Cloud Drive,20.48,50.21,4/26/2022,8/21/2022,1.1,29.04,cloudy,moderate,credit card,2,28,highway
+06/12/2025,2,84 Scott Alley,1170 Northridge Point,27.83,18.74,8/26/2022,8/13/2022,3.7,56.63,snowy,light,cash,4,248,back roads
+06/12/2025,4,450 Truax Pass,016 Spohn Lane,29.6,26.55,5/1/2022,8/29/2022,1.9,6.48,cloudy,light,credit card,4,110,back roads
+06/12/2025,7,6 Westerfield Parkway,1815 Sachtjen Drive,27.86,49.86,1/1/2022,8/4/2022,2.9,73.71,snowy,heavy,cash,1,569,city streets
+06/12/2025,8,3364 Kensington Alley,3 Oneill Place,20.5,41.78,8/8/2022,5/25/2022,1.8,46.59,snowy,moderate,mobile payment,5,571,back roads
+06/12/2025,2,4 Algoma Hill,9 Hovde Alley,1.42,135.35,3/31/2022,3/24/2022,2.0,52.44,cloudy,light,credit card,5,503,highway
+06/12/2025,9,3 Bay Crossing,140 Glacier Hill Drive,38.67,116.77,3/9/2022,8/5/2022,3.1,12.1,sunny,moderate,credit card,4,246,highway
+06/12/2025,4,3523 Trailsway Way,77043 Lake View Terrace,22.25,85.62,5/23/2022,10/22/2022,1.3,25.64,sunny,heavy,mobile payment,4,165,highway
+06/12/2025,2,99 Mayer Trail,8681 Buena Vista Hill,22.53,29.74,6/6/2022,6/4/2022,1.5,62.11,sunny,heavy,cash,5,231,city streets
+06/12/2025,8,618 Steensland Parkway,79019 Hollow Ridge Point,22.9,102.69,6/6/2022,9/14/2022,3.6,98.7,snowy,heavy,mobile payment,1,117,city streets
+06/12/2025,9,07309 Scoville Center,02 Knutson Court,7.31,79.53,7/12/2022,2/9/2022,3.2,90.73,snowy,moderate,credit card,2,524,city streets
+06/12/2025,3,8 Fieldstone Crossing,83 Bellgrove Court,11.17,80.1,4/9/2022,10/12/2022,1.0,64.69,cloudy,moderate,mobile payment,1,534,highway
+06/12/2025,4,9809 Roth Street,25 Almo Hill,48.84,18.37,1/25/2022,3/5/2022,1.4,96.51,snowy,light,mobile payment,3,214,city streets
+06/12/2025,8,18 Roth Way,541 Anderson Court,22.07,105.96,6/15/2022,2/20/2022,3.0,15.6,snowy,heavy,mobile payment,5,376,highway
+06/12/2025,4,4 Mockingbird Center,94 Welch Road,45.22,24.67,4/25/2022,7/11/2022,2.3,13.16,sunny,light,cash,2,492,highway
+06/12/2025,9,72 Mayer Lane,20 Nancy Circle,19.41,149.32,4/25/2022,8/1/2022,4.7,90.2,snowy,light,credit card,1,163,back roads
+06/12/2025,6,8 Gerald Place,164 Eagle Crest Pass,20.47,67.36,8/8/2022,3/2/2022,1.5,24.18,sunny,moderate,cash,5,290,highway
+06/12/2025,5,2 Texas Lane,1263 Reinke Trail,32.99,26.47,4/28/2022,9/11/2022,1.0,5.83,snowy,heavy,cash,5,454,city streets
+06/12/2025,7,8 Center Plaza,8 Carberry Terrace,3.51,62.14,8/24/2022,2/28/2022,1.0,57.49,sunny,light,cash,1,324,back roads
+06/12/2025,9,9 Kings Court,346 Kennedy Way,12.37,139.76,6/17/2022,8/1/2022,3.1,14.57,sunny,heavy,mobile payment,4,524,highway
+06/12/2025,4,41976 Quincy Trail,6656 Cardinal Lane,14.3,74.11,6/1/2022,4/1/2022,2.9,53.03,snowy,moderate,mobile payment,3,572,back roads
+06/12/2025,3,75522 Toban Avenue,68327 Westport Hill,22.94,93.99,9/4/2022,1/27/2022,1.1,81.53,cloudy,light,credit card,1,193,highway
+06/12/2025,4,71523 Killdeer Plaza,855 Ramsey Hill,33.77,45.27,3/31/2022,4/30/2022,4.8,95.97,snowy,light,credit card,3,336,city streets
+06/12/2025,6,63958 Havey Avenue,43 Service Road,27.19,81.01,9/3/2022,11/1/2022,3.2,79.12,cloudy,light,cash,4,166,city streets
+06/12/2025,9,99104 Darwin Point,82 Bartelt Terrace,29.49,58.1,8/8/2022,1/16/2022,1.7,65.68,sunny,moderate,credit card,3,363,back roads
+06/12/2025,8,646 Shopko Way,644 Anthes Road,3.45,112.14,3/24/2022,6/6/2022,4.4,14.74,sunny,light,cash,4,197,city streets
+06/12/2025,2,587 Petterle Road,104 John Wall Street,21.08,64.07,5/28/2022,2/9/2022,2.3,5.9,cloudy,heavy,credit card,5,9,back roads
+06/12/2025,9,293 Forest Terrace,500 Bluejay Alley,39.25,48.47,4/5/2022,10/31/2022,4.4,21.41,snowy,heavy,cash,4,222,city streets
+06/12/2025,9,052 Linden Center,5 Sauthoff Point,37.59,68.71,8/25/2022,4/20/2022,3.5,53.12,snowy,moderate,cash,5,367,city streets
+06/12/2025,7,58508 Novick Junction,600 Meadow Ridge Hill,30.39,140.72,7/2/2022,1/19/2022,1.6,78.66,snowy,moderate,credit card,2,128,highway
+06/12/2025,4,0416 Dapin Street,01007 Anzinger Way,47.83,15.63,9/2/2022,9/21/2022,4.8,7.42,snowy,light,cash,4,52,city streets
+06/12/2025,9,701 Mallard Street,60510 Moose Terrace,27.78,114.02,7/27/2022,6/8/2022,3.9,47.28,sunny,heavy,mobile payment,2,445,city streets
+06/12/2025,9,06 Vernon Court,0737 Hintze Court,6.11,59.5,9/15/2022,3/10/2022,3.4,96.72,cloudy,moderate,mobile payment,3,129,city streets
+06/12/2025,1,8998 Service Avenue,91039 Butterfield Hill,16.1,39.39,7/14/2022,7/5/2022,4.3,87.29,snowy,light,credit card,1,22,city streets
+06/12/2025,1,027 Goodland Drive,2081 Butterfield Drive,24.38,19.85,7/19/2022,2/11/2022,3.2,13.92,cloudy,moderate,mobile payment,1,556,highway
+06/12/2025,5,0 Annamark Lane,2 Del Sol Lane,10.21,75.43,4/8/2022,11/1/2022,1.3,57.23,sunny,heavy,cash,3,526,back roads
+06/12/2025,1,156 Drewry Street,262 Fieldstone Drive,37.17,146.41,5/12/2022,5/15/2022,1.2,94.25,snowy,moderate,cash,1,173,highway
+06/12/2025,4,3671 Holmberg Center,1139 Vera Pass,1.18,16.73,2/5/2022,4/16/2022,3.4,41.8,sunny,light,credit card,2,594,back roads
+06/12/2025,4,84495 Independence Lane,5000 Brentwood Trail,46.71,57.76,4/27/2022,6/27/2022,4.1,55.29,cloudy,light,credit card,2,274,city streets
+06/12/2025,6,7 Briar Crest Parkway,61605 Lake View Trail,23.43,22.14,1/3/2022,5/16/2022,3.6,90.72,sunny,heavy,cash,1,376,city streets
+06/12/2025,3,97007 Cambridge Park,824 Cody Circle,24.04,38.55,3/28/2022,9/27/2022,3.9,5.24,cloudy,heavy,cash,3,523,city streets
+06/12/2025,7,9228 Mesta Park,34982 Debs Drive,10.85,103.1,9/18/2022,10/16/2022,2.0,89.46,sunny,heavy,credit card,4,5,back roads
+06/12/2025,4,802 Logan Circle,6736 Helena Trail,43.34,144.16,4/15/2022,9/16/2022,3.4,27.05,snowy,light,credit card,2,251,back roads
+06/12/2025,4,228 Harper Road,41 Schurz Parkway,10.33,17.77,3/12/2022,8/23/2022,4.4,9.43,sunny,heavy,credit card,2,19,back roads
+06/12/2025,6,16345 Bunting Parkway,9 Holy Cross Parkway,36.39,103.11,2/15/2022,6/19/2022,5.0,63.41,cloudy,light,cash,5,264,back roads
+06/12/2025,4,6 Sugar Drive,7 Forest Run Point,46.41,121.11,3/2/2022,10/17/2022,2.9,61.99,sunny,heavy,cash,3,482,highway
+06/12/2025,5,6 Homewood Terrace,9322 Corry Court,4.72,22.53,6/14/2022,7/3/2022,4.5,41.95,sunny,light,credit card,1,174,city streets
+06/12/2025,1,6 Utah Trail,19884 Del Mar Avenue,36.23,81.08,7/13/2022,8/27/2022,2.5,12.83,cloudy,moderate,mobile payment,4,0,highway
+06/12/2025,7,7 Jackson Crossing,86823 Melvin Lane,47.71,20.33,5/8/2022,1/28/2022,1.7,7.53,snowy,heavy,credit card,5,315,back roads
+06/12/2025,4,677 Sycamore Plaza,5396 Commercial Lane,5.43,138.67,5/4/2022,8/23/2022,4.0,28.32,sunny,moderate,mobile payment,5,462,city streets
+06/12/2025,2,045 Forest Run Way,17787 Goodland Court,5.96,115.55,7/4/2022,5/1/2022,2.1,94.37,snowy,heavy,mobile payment,5,200,highway
+06/12/2025,6,063 Grasskamp Street,74 Lotheville Trail,40.55,77.19,2/27/2022,7/10/2022,4.2,10.57,snowy,moderate,cash,4,394,city streets
+06/12/2025,7,70031 Del Mar Alley,971 Eliot Pass,48.86,71.88,1/9/2022,4/23/2022,2.6,10.48,snowy,heavy,cash,1,471,highway
+06/12/2025,8,10 7th Drive,5893 Coolidge Hill,13.51,55.32,1/26/2022,4/5/2022,5.0,92.25,sunny,moderate,mobile payment,1,211,back roads
+06/12/2025,3,3911 Glendale Way,5212 6th Way,3.66,113.08,9/11/2022,10/16/2022,2.7,43.07,sunny,light,cash,3,522,back roads
+06/12/2025,8,3 Jay Crossing,48 Meadow Valley Circle,48.92,79.42,1/9/2022,1/24/2022,1.1,41.59,cloudy,moderate,mobile payment,1,15,highway
+06/12/2025,6,87884 Amoth Point,341 Artisan Park,38.03,37.62,1/14/2022,7/8/2022,4.6,34.84,cloudy,heavy,credit card,1,456,city streets
+06/12/2025,4,6894 Vera Trail,7384 Schmedeman Parkway,29.82,147.97,4/7/2022,10/13/2022,4.7,60.61,cloudy,heavy,mobile payment,2,22,back roads
+06/12/2025,9,3 Sherman Drive,0231 Longview Park,39.78,20.51,8/16/2022,4/14/2022,3.5,95.56,sunny,light,credit card,3,214,city streets
+06/12/2025,5,0156 Del Sol Alley,62 Vera Court,43.78,23.43,4/26/2022,9/17/2022,3.2,47.07,cloudy,light,credit card,2,51,highway
+06/12/2025,4,55 Merry Way,317 Goodland Lane,36.5,51.28,2/19/2022,4/3/2022,3.9,71.14,snowy,heavy,credit card,5,158,city streets
+06/12/2025,7,31026 Heath Road,72 Kinsman Place,23.69,20.46,2/17/2022,2/22/2022,2.8,8.69,snowy,light,credit card,1,495,highway
+06/12/2025,6,5935 Carioca Crossing,19 Hazelcrest Lane,17.87,89.23,7/17/2022,2/11/2022,4.1,82.98,snowy,heavy,mobile payment,5,202,highway
+06/12/2025,9,66267 Welch Alley,57168 Jana Junction,37.68,99.31,1/21/2022,9/5/2022,2.2,74.86,sunny,heavy,cash,3,231,city streets
+06/12/2025,6,490 Melby Park,3362 Washington Center,39.88,50.94,9/1/2022,6/27/2022,5.0,7.71,sunny,moderate,cash,3,371,highway
+06/12/2025,3,98 Sage Pass,989 Ludington Park,22.14,117.76,5/16/2022,7/22/2022,4.9,80.89,snowy,moderate,mobile payment,1,362,city streets
+06/12/2025,5,3469 Saint Paul Court,47 Kedzie Drive,22.55,30.15,5/24/2022,10/25/2022,2.5,82.05,cloudy,heavy,cash,5,388,highway
+06/12/2025,2,728 Warner Road,33381 Transport Lane,28.95,115.9,4/6/2022,11/6/2022,1.7,56.74,snowy,light,mobile payment,2,408,back roads
+06/12/2025,7,08624 Aberg Alley,132 Thackeray Center,10.12,47.73,2/19/2022,1/28/2022,1.4,62.67,cloudy,light,mobile payment,4,165,back roads
+06/12/2025,8,5 Springs Trail,612 Hauk Way,32.5,110.92,8/31/2022,11/1/2022,1.2,1.65,cloudy,light,mobile payment,2,125,highway
+06/12/2025,2,00 Sutteridge Center,33 Rigney Court,39.15,10.03,3/15/2022,5/20/2022,2.7,57.79,snowy,heavy,mobile payment,4,180,city streets
+06/12/2025,1,67825 Buhler Avenue,2338 Loomis Terrace,17.61,61.71,7/7/2022,7/8/2022,3.3,47.44,cloudy,moderate,credit card,3,475,back roads
+06/12/2025,4,1984 Eagle Crest Drive,985 Del Mar Circle,29.57,19.68,3/10/2022,9/25/2022,1.5,68.13,snowy,light,credit card,2,136,back roads
+06/12/2025,8,543 Cody Drive,380 Kipling Place,43.98,114.33,8/18/2022,10/9/2022,3.0,58.66,snowy,moderate,cash,5,350,city streets
+06/12/2025,7,7 Columbus Hill,50249 Comanche Plaza,13.52,102.38,2/5/2022,5/10/2022,3.3,74.49,snowy,light,mobile payment,5,175,back roads
+06/12/2025,8,3922 Center Avenue,624 Melby Crossing,43.55,119.17,1/8/2022,11/6/2022,1.2,81.66,snowy,light,credit card,3,509,back roads
+06/12/2025,7,71790 Walton Way,1434 Badeau Street,16.09,93.57,6/9/2022,8/13/2022,2.9,92.55,snowy,heavy,mobile payment,2,384,highway
+06/12/2025,7,602 Schmedeman Court,0797 Arizona Street,3.07,42.06,1/27/2022,10/5/2022,2.9,13.95,cloudy,heavy,cash,2,104,back roads
+06/12/2025,8,805 Burning Wood Hill,1674 Mayer Point,8.08,50.1,1/12/2022,1/20/2022,4.8,17.75,snowy,moderate,mobile payment,5,548,highway
+06/12/2025,1,7 Sherman Road,5 Macpherson Hill,19.56,17.83,3/31/2022,7/5/2022,4.2,96.3,snowy,moderate,credit card,5,537,highway
+06/12/2025,7,0334 Moulton Crossing,53 Hooker Way,35.17,97.02,4/9/2022,7/8/2022,4.5,91.17,snowy,light,mobile payment,5,555,back roads
+06/12/2025,7,3492 Quincy Lane,9 Walton Hill,30.67,24.44,5/14/2022,6/7/2022,2.8,4.51,snowy,moderate,mobile payment,4,510,highway
+06/12/2025,8,572 Redwing Terrace,24 Oriole Court,34.0,72.29,7/31/2022,10/8/2022,4.8,88.08,snowy,heavy,cash,2,125,city streets
+06/12/2025,2,8568 Westport Trail,7089 Paget Drive,5.8,109.25,8/13/2022,2/27/2022,2.1,18.77,sunny,moderate,cash,1,38,city streets
+06/12/2025,4,01 Debra Crossing,48 Carberry Trail,39.25,93.39,9/7/2022,9/16/2022,2.4,69.38,snowy,heavy,credit card,3,558,highway
+06/12/2025,9,4 Quincy Court,68996 2nd Trail,18.34,32.54,3/6/2022,7/28/2022,3.7,50.02,cloudy,light,mobile payment,3,82,back roads
+06/12/2025,3,9610 Barnett Avenue,703 Granby Hill,44.81,21.24,4/23/2022,3/16/2022,1.6,11.33,sunny,heavy,credit card,1,347,city streets
+06/12/2025,5,75 Holmberg Point,2767 Leroy Hill,0.74,4.41,6/14/2022,9/21/2022,3.4,41.08,snowy,light,cash,3,201,city streets
+06/12/2025,2,383 Derek Alley,8 Nova Avenue,42.04,50.34,5/7/2022,5/8/2022,3.6,36.27,sunny,light,credit card,2,513,back roads
+06/12/2025,9,328 Kenwood Place,5 Aberg Parkway,35.09,134.56,1/31/2022,4/5/2022,2.2,22.14,cloudy,moderate,credit card,3,297,highway
+06/12/2025,2,49 Oakridge Hill,77 Raven Center,32.29,120.93,5/30/2022,2/11/2022,4.8,4.31,cloudy,moderate,credit card,3,93,city streets
+06/12/2025,3,295 Oak Trail,9 Anniversary Trail,31.78,121.98,7/18/2022,5/14/2022,2.7,63.39,sunny,light,credit card,5,470,highway
+06/12/2025,6,39755 Lukken Pass,69 Waxwing Lane,26.7,7.04,3/12/2022,3/12/2022,2.0,39.91,snowy,moderate,cash,4,22,highway
+06/12/2025,8,6 Kensington Alley,4748 Fallview Junction,37.9,67.96,1/29/2022,5/6/2022,4.2,73.97,sunny,heavy,cash,5,82,back roads
+06/12/2025,7,8 Bunting Lane,2717 Miller Hill,6.95,64.21,3/29/2022,10/5/2022,3.5,89.1,snowy,moderate,credit card,5,523,back roads
+06/12/2025,9,0314 Judy Place,9007 Muir Junction,41.64,6.26,1/29/2022,10/7/2022,1.8,0.44,sunny,light,credit card,5,477,highway
+06/12/2025,3,87 Parkside Crossing,06325 Acker Terrace,38.03,120.24,7/1/2022,3/24/2022,3.9,8.0,sunny,light,cash,3,523,highway
+06/12/2025,4,78888 Independence Point,35 Transport Lane,15.81,64.98,4/26/2022,9/6/2022,4.0,11.57,cloudy,light,cash,2,436,back roads
+06/12/2025,1,55044 Stuart Place,916 Hoard Pass,31.21,118.73,3/11/2022,10/8/2022,1.8,83.04,snowy,moderate,mobile payment,4,478,city streets
+06/12/2025,5,911 Harper Place,62 Kennedy Pass,33.31,86.65,1/7/2022,7/18/2022,4.9,36.74,sunny,light,credit card,2,333,highway
+06/12/2025,2,27 Trailsway Center,85621 Mitchell Alley,23.64,50.7,5/24/2022,11/4/2022,4.2,4.57,snowy,moderate,credit card,1,199,highway
