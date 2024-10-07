@@ -119,8 +119,7 @@ The core processing logic is in the Pyspark script, which reads data from the ra
 **Bronze Zone**
 
 Here, the raw CSV data is ingested with minimal transformations. Here’s the Pyspark script:
-
-# Create a Spark session with the necessary configurations    
+  
 ```python
 from pyspark.sql import SparkSession, DataFrame    
 from pyspark.sql.functions import col   
